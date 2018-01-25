@@ -1,14 +1,14 @@
 {
     "1": {
         "name": "Bisasam",
-        "rarity": "Uncommon",
+        "rarity": "Nicht Häufig",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             },
             {
-                "type": "Poison",
+                "type": "Gift",
                 "color": "#a040a0"
             }
         ],
@@ -16,14 +16,14 @@
     },
     "2": {
         "name": "Bisaknosp",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             },
             {
-                "type": "Poison",
+                "type": "Gift",
                 "color": "#a040a0"
             }
         ],
@@ -31,14 +31,14 @@
     },
     "3": {
         "name": "Bisaflor",
-        "rarity": "Very Rare",
+        "rarity": "Sehr Selten",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             },
             {
-                "type": "Poison",
+                "type": "Gift",
                 "color": "#a040a0"
             }
         ],
@@ -46,10 +46,10 @@
     },
     "4": {
         "name": "Glumanda",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
-                "type": "Fire",
+                "type": "Feuer",
                 "color": "#f08030"
             }
         ],
@@ -57,10 +57,10 @@
     },
     "5": {
         "name": "Glutexo",
-        "rarity": "Very Rare",
+        "rarity": "Sehr Selten",
         "types": [
             {
-                "type": "Fire",
+                "type": "Feuer",
                 "color": "#f08030"
             }
         ],
@@ -68,14 +68,14 @@
     },
     "6": {
         "name": "Glurak",
-        "rarity": "Very Rare",
+        "rarity": "Sehr Selten",
         "types": [
             {
-                "type": "Fire",
+                "type": "Feuer",
                 "color": "#f08030"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -83,10 +83,10 @@
     },
     "7": {
         "name": "Schiggy",
-        "rarity": "Uncommon",
+        "rarity": "Nicht Häufig",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -94,10 +94,10 @@
     },
     "8": {
         "name": "Schillok",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -105,10 +105,10 @@
     },
     "9": {
         "name": "Turtok",
-        "rarity": "Very Rare",
+        "rarity": "Sehr Selten",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -116,10 +116,10 @@
     },
     "10": {
         "name": "Raupy",
-        "rarity": "Uncommon",
+        "rarity": "Nicht Häufig",
         "types": [
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             }
         ],
@@ -127,10 +127,10 @@
     },
     "11": {
         "name": "Safcon",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             }
         ],
@@ -138,14 +138,14 @@
     },
     "12": {
         "name": "Smettbo",
-        "rarity": "Very Rare",
+        "rarity": "Sehr Selten",
         "types": [
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -153,14 +153,14 @@
     },
     "13": {
         "name": "Hornliu",
-        "rarity": "Common",
+        "rarity": "Häufig",
         "types": [
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             },
             {
-                "type": "Poison",
+                "type": "Gift",
                 "color": "#a040a0"
             }
         ],
@@ -168,14 +168,14 @@
     },
     "14": {
         "name": "Kokuna",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             },
             {
-                "type": "Poison",
+                "type": "Gift",
                 "color": "#a040a0"
             }
         ],
@@ -183,14 +183,14 @@
     },
     "15": {
         "name": "Bibor",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             },
             {
-                "type": "Poison",
+                "type": "Gift",
                 "color": "#a040a0"
             }
         ],
@@ -198,14 +198,14 @@
     },
     "16": {
         "name": "Taubsi",
-        "rarity": "Common",
+        "rarity": "Häufig",
         "types": [
             {
                 "type": "Normal",
                 "color": "#8a8a59"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -213,14 +213,14 @@
     },
     "17": {
         "name": "Tauboga",
-        "rarity": "Uncommon",
+        "rarity": "Nicht Häufig",
         "types": [
             {
                 "type": "Normal",
                 "color": "#8a8a59"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -228,14 +228,14 @@
     },
     "18": {
         "name": "Tauboss",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
                 "type": "Normal",
                 "color": "#8a8a59"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -243,7 +243,7 @@
     },
     "19": {
         "name": "Rattfratz",
-        "rarity": "Common",
+        "rarity": "Häufig",
         "types": [
             {
                 "type": "Normal",
@@ -254,7 +254,7 @@
     },
     "20": {
         "name": "Rattikarl",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
                 "type": "Normal",
@@ -265,14 +265,14 @@
     },
     "21": {
         "name": "Habitak",
-        "rarity": "Uncommon",
+        "rarity": "Nicht Häufig",
         "types": [
             {
                 "type": "Normal",
                 "color": "#8a8a59"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -280,14 +280,14 @@
     },
     "22": {
         "name": "Ibitak",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
                 "type": "Normal",
                 "color": "#8a8a59"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -295,10 +295,10 @@
     },
     "23": {
         "name": "Rettan",
-        "rarity": "Uncommon",
+        "rarity": "Nicht Häufig",
         "types": [
             {
-                "type": "Poison",
+                "type": "Gift",
                 "color": "#a040a0"
             }
         ],
@@ -306,10 +306,10 @@
     },
     "24": {
         "name": "Arbok",
-        "rarity": "Very Rare",
+        "rarity": "Sehr Selten",
         "types": [
             {
-                "type": "Poison",
+                "type": "Gift",
                 "color": "#a040a0"
             }
         ],
@@ -317,10 +317,10 @@
     },
     "25": {
         "name": "Pikachu",
-        "rarity": "Uncommon",
+        "rarity": "Nicht Häufig",
         "types": [
             {
-                "type": "Electric",
+                "type": "Elektro",
                 "color": "#f8d030"
             }
         ],
@@ -328,10 +328,10 @@
     },
     "26": {
         "name": "Raichu",
-        "rarity": "Ultra Rare",
+        "rarity": "Ultra Selten",
         "types": [
             {
-                "type": "Electric",
+                "type": "Elektro",
                 "color": "#f8d030"
             }
         ],
@@ -339,10 +339,10 @@
     },
     "27": {
         "name": "Sandan",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
-                "type": "Ground",
+                "type": "Boden",
                 "color": "#e0c068"
             }
         ],
@@ -350,10 +350,10 @@
     },
     "28": {
         "name": "Sandamer",
-        "rarity": "Ultra Rare",
+        "rarity": "Ultra Selten",
         "types": [
             {
-                "type": "Ground",
+                "type": "Boden",
                 "color": "#e0c068"
             }
         ],
@@ -361,10 +361,10 @@
     },
     "29": {
         "name": "♀♀",
-        "rarity": "Uncommon",
+        "rarity": "Nicht Häufig",
         "types": [
             {
-                "type": "Poison",
+                "type": "Gift",
                 "color": "#a040a0"
             }
         ],
@@ -372,10 +372,10 @@
     },
     "30": {
         "name": "Nidorina",
-        "rarity": "Very Rare",
+        "rarity": "Sehr Selten",
         "types": [
             {
-                "type": "Poison",
+                "type": "Gift",
                 "color": "#a040a0"
             }
         ],
@@ -383,14 +383,14 @@
     },
     "31": {
         "name": "Nidoqueen",
-        "rarity": "Very Rare",
+        "rarity": "Sehr Selten",
         "types": [
             {
-                "type": "Poison",
+                "type": "Gift",
                 "color": "#a040a0"
             },
             {
-                "type": "Ground",
+                "type": "Boden",
                 "color": "#e0c068"
             }
         ],
@@ -398,10 +398,10 @@
     },
     "32": {
         "name": "♀♂",
-        "rarity": "Uncommon",
+        "rarity": "Nicht Häufig",
         "types": [
             {
-                "type": "Poison",
+                "type": "Gift",
                 "color": "#a040a0"
             }
         ],
@@ -409,10 +409,10 @@
     },
     "33": {
         "name": "Nidorino",
-        "rarity": "Very Rare",
+        "rarity": "Sehr Selten",
         "types": [
             {
-                "type": "Poison",
+                "type": "Gift",
                 "color": "#a040a0"
             }
         ],
@@ -420,14 +420,14 @@
     },
     "34": {
         "name": "Nidoking",
-        "rarity": "Very Rare",
+        "rarity": "Sehr Selten",
         "types": [
             {
-                "type": "Poison",
+                "type": "Gift",
                 "color": "#a040a0"
             },
             {
-                "type": "Ground",
+                "type": "Boden",
                 "color": "#e0c068"
             }
         ],
@@ -435,10 +435,10 @@
     },
     "35": {
         "name": "Piepi",
-        "rarity": "Uncommon",
+        "rarity": "Nicht Häufig",
         "types": [
             {
-                "type": "Fairy",
+                "type": "Fee",
                 "color": "#e898e8"
             }
         ],
@@ -446,10 +446,10 @@
     },
     "36": {
         "name": "Pixi",
-        "rarity": "Very Rare",
+        "rarity": "Sehr Selten",
         "types": [
             {
-                "type": "Fairy",
+                "type": "Fee",
                 "color": "#e898e8"
             }
         ],
@@ -457,10 +457,10 @@
     },
     "37": {
         "name": "Vulpix",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
-                "type": "Fire",
+                "type": "Feuer",
                 "color": "#f08030"
             }
         ],
@@ -468,10 +468,10 @@
     },
     "38": {
         "name": "Vulnona",
-        "rarity": "Ultra Rare",
+        "rarity": "Ultra Selten",
         "types": [
             {
-                "type": "Fire",
+                "type": "Feuer",
                 "color": "#f08030"
             }
         ],
@@ -479,14 +479,14 @@
     },
     "39": {
         "name": "Pummeluff",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
                 "type": "Normal",
                 "color": "#8a8a59"
             },
             {
-                "type": "Fairy",
+                "type": "Fee",
                 "color": "#e898e8"
             }
         ],
@@ -494,14 +494,14 @@
     },
     "40": {
         "name": "Knuddeluff",
-        "rarity": "Ultra Rare",
+        "rarity": "Ultra Selten",
         "types": [
             {
                 "type": "Normal",
                 "color": "#8a8a59"
             },
             {
-                "type": "Fairy",
+                "type": "Fee",
                 "color": "#e898e8"
             }
         ],
@@ -509,14 +509,14 @@
     },
     "41": {
         "name": "Zubat",
-        "rarity": "Common",
+        "rarity": "Häufig",
         "types": [
             {
-                "type": "Poison",
+                "type": "Gift",
                 "color": "#a040a0"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -524,14 +524,14 @@
     },
     "42": {
         "name": "Golbat",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
-                "type": "Poison",
+                "type": "Gift",
                 "color": "#a040a0"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -539,14 +539,14 @@
     },
     "43": {
         "name": "Myrapla",
-        "rarity": "Uncommon",
+        "rarity": "Nicht Häufig",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             },
             {
-                "type": "Poison",
+                "type": "Gift",
                 "color": "#a040a0"
             }
         ],
@@ -554,14 +554,14 @@
     },
     "44": {
         "name": "Duflor",
-        "rarity": "Very Rare",
+        "rarity": "Sehr Selten",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             },
             {
-                "type": "Poison",
+                "type": "Gift",
                 "color": "#a040a0"
             }
         ],
@@ -569,14 +569,14 @@
     },
     "45": {
         "name": "Giflor",
-        "rarity": "Ultra Rare",
+        "rarity": "Ultra Selten",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             },
             {
-                "type": "Poison",
+                "type": "Gift",
                 "color": "#a040a0"
             }
         ],
@@ -584,14 +584,14 @@
     },
     "46": {
         "name": "Paras",
-        "rarity": "Uncommon",
+        "rarity": "Nicht Häufig",
         "types": [
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             },
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             }
         ],
@@ -599,14 +599,14 @@
     },
     "47": {
         "name": "Parasek",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             },
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             }
         ],
@@ -614,14 +614,14 @@
     },
     "48": {
         "name": "Bluzuk",
-        "rarity": "Uncommon",
+        "rarity": "Nicht Häufig",
         "types": [
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             },
             {
-                "type": "Poison",
+                "type": "Gift",
                 "color": "#a040a0"
             }
         ],
@@ -629,14 +629,14 @@
     },
     "49": {
         "name": "Omot",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             },
             {
-                "type": "Poison",
+                "type": "Gift",
                 "color": "#a040a0"
             }
         ],
@@ -644,10 +644,10 @@
     },
     "50": {
         "name": "Digda",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
-                "type": "Ground",
+                "type": "Boden",
                 "color": "#e0c068"
             }
         ],
@@ -655,10 +655,10 @@
     },
     "51": {
         "name": "Digdri",
-        "rarity": "Ultra Rare",
+        "rarity": "Ultra Selten",
         "types": [
             {
-                "type": "Ground",
+                "type": "Boden",
                 "color": "#e0c068"
             }
         ],
@@ -666,7 +666,7 @@
     },
     "52": {
         "name": "Mauzi",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
                 "type": "Normal",
@@ -677,7 +677,7 @@
     },
     "53": {
         "name": "Snobilikat",
-        "rarity": "Very Rare",
+        "rarity": "Sehr Selten",
         "types": [
             {
                 "type": "Normal",
@@ -688,10 +688,10 @@
     },
     "54": {
         "name": "Enton",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -699,10 +699,10 @@
     },
     "55": {
         "name": "Entoron",
-        "rarity": "Very Rare",
+        "rarity": "Sehr Selten",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -710,10 +710,10 @@
     },
     "56": {
         "name": "Menki",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
-                "type": "Fighting",
+                "type": "Kampf",
                 "color": "#c03028"
             }
         ],
@@ -721,10 +721,10 @@
     },
     "57": {
         "name": "Rasaff",
-        "rarity": "Very Rare",
+        "rarity": "Sehr Selten",
         "types": [
             {
-                "type": "Fighting",
+                "type": "Kampf",
                 "color": "#c03028"
             }
         ],
@@ -732,10 +732,10 @@
     },
     "58": {
         "name": "Fukano",
-        "rarity": "Uncommon",
+        "rarity": "Nicht Häufig",
         "types": [
             {
-                "type": "Fire",
+                "type": "Feuer",
                 "color": "#f08030"
             }
         ],
@@ -743,10 +743,10 @@
     },
     "59": {
         "name": "Arkani",
-        "rarity": "Very Rare",
+        "rarity": "Sehr Selten",
         "types": [
             {
-                "type": "Fire",
+                "type": "Feuer",
                 "color": "#f08030"
             }
         ],
@@ -754,10 +754,10 @@
     },
     "60": {
         "name": "Quapsel",
-        "rarity": "Uncommon",
+        "rarity": "Nicht Häufig",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -765,10 +765,10 @@
     },
     "61": {
         "name": "Quaputzi",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -776,14 +776,14 @@
     },
     "62": {
         "name": "Quappo",
-        "rarity": "Ultra Rare",
+        "rarity": "Ultra Selten",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             },
             {
-                "type": "Fighting",
+                "type": "Kampf",
                 "color": "#c03028"
             }
         ],
@@ -791,7 +791,7 @@
     },
     "63": {
         "name": "Abra",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
                 "type": "Psychic",
@@ -802,7 +802,7 @@
     },
     "64": {
         "name": "Kadabra",
-        "rarity": "Very Rare",
+        "rarity": "Sehr Selten",
         "types": [
             {
                 "type": "Psychic",
@@ -813,7 +813,7 @@
     },
     "65": {
         "name": "Simsala",
-        "rarity": "Ultra Rare",
+        "rarity": "Ultra Selten",
         "types": [
             {
                 "type": "Psychic",
@@ -824,10 +824,10 @@
     },
     "66": {
         "name": "Machollo",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
-                "type": "Fighting",
+                "type": "Kampf",
                 "color": "#c03028"
             }
         ],
@@ -835,10 +835,10 @@
     },
     "67": {
         "name": "Maschock",
-        "rarity": "Very Rare",
+        "rarity": "Sehr Selten",
         "types": [
             {
-                "type": "Fighting",
+                "type": "Kampf",
                 "color": "#c03028"
             }
         ],
@@ -846,10 +846,10 @@
     },
     "68": {
         "name": "Machomei",
-        "rarity": "Ultra Rare",
+        "rarity": "Ultra Selten",
         "types": [
             {
-                "type": "Fighting",
+                "type": "Kampf",
                 "color": "#c03028"
             }
         ],
@@ -857,14 +857,14 @@
     },
     "69": {
         "name": "Knofensa",
-        "rarity": "Uncommon",
+        "rarity": "Nicht Häufig",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             },
             {
-                "type": "Poison",
+                "type": "Gift",
                 "color": "#a040a0"
             }
         ],
@@ -872,14 +872,14 @@
     },
     "70": {
         "name": "Ultrigaria",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             },
             {
-                "type": "Poison",
+                "type": "Gift",
                 "color": "#a040a0"
             }
         ],
@@ -887,14 +887,14 @@
     },
     "71": {
         "name": "Sarzenia",
-        "rarity": "Ultra Rare",
+        "rarity": "Ultra Selten",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             },
             {
-                "type": "Poison",
+                "type": "Gift",
                 "color": "#a040a0"
             }
         ],
@@ -902,14 +902,14 @@
     },
     "72": {
         "name": "Tentacha",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             },
             {
-                "type": "Poison",
+                "type": "Gift",
                 "color": "#a040a0"
             }
         ],
@@ -917,14 +917,14 @@
     },
     "73": {
         "name": "Tentoxa",
-        "rarity": "Very Rare",
+        "rarity": "Sehr Selten",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             },
             {
-                "type": "Poison",
+                "type": "Gift",
                 "color": "#a040a0"
             }
         ],
@@ -932,14 +932,14 @@
     },
     "74": {
         "name": "Kleinstein",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
-                "type": "Rock",
+                "type": "Gestein",
                 "color": "#b8a038"
             },
             {
-                "type": "Ground",
+                "type": "Boden",
                 "color": "#e0c068"
             }
         ],
@@ -947,14 +947,14 @@
     },
     "75": {
         "name": "Georok",
-        "rarity": "Very Rare",
+        "rarity": "Sehr Selten",
         "types": [
             {
-                "type": "Rock",
+                "type": "Gestein",
                 "color": "#b8a038"
             },
             {
-                "type": "Ground",
+                "type": "Boden",
                 "color": "#e0c068"
             }
         ],
@@ -962,14 +962,14 @@
     },
     "76": {
         "name": "Geowaz",
-        "rarity": "Ultra Rare",
+        "rarity": "Ultra Selten",
         "types": [
             {
-                "type": "Rock",
+                "type": "Gestein",
                 "color": "#b8a038"
             },
             {
-                "type": "Ground",
+                "type": "Boden",
                 "color": "#e0c068"
             }
         ],
@@ -977,10 +977,10 @@
     },
     "77": {
         "name": "Ponita",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
-                "type": "Fire",
+                "type": "Feuer",
                 "color": "#f08030"
             }
         ],
@@ -988,10 +988,10 @@
     },
     "78": {
         "name": "Gallopa",
-        "rarity": "Very Rare",
+        "rarity": "Sehr Selten",
         "types": [
             {
-                "type": "Fire",
+                "type": "Feuer",
                 "color": "#f08030"
             }
         ],
@@ -999,10 +999,10 @@
     },
     "79": {
         "name": "Flegmon",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             },
             {
@@ -1014,10 +1014,10 @@
     },
     "80": {
         "name": "Lahmus",
-        "rarity": "Very Rare",
+        "rarity": "Sehr Selten",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             },
             {
@@ -1029,14 +1029,14 @@
     },
     "81": {
         "name": "Magnetilo",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
-                "type": "Electric",
+                "type": "Elektro",
                 "color": "#f8d030"
             },
             {
-                "type": "Steel",
+                "type": "Stahl",
                 "color": "#b8b8d0"
             }
         ],
@@ -1044,14 +1044,14 @@
     },
     "82": {
         "name": "Magneton",
-        "rarity": "Ultra Rare",
+        "rarity": "Ultra Selten",
         "types": [
             {
-                "type": "Electric",
+                "type": "Elektro",
                 "color": "#f8d030"
             },
             {
-                "type": "Steel",
+                "type": "Stahl",
                 "color": "#b8b8d0"
             }
         ],
@@ -1059,14 +1059,14 @@
     },
     "83": {
         "name": "Farfetch'd",
-        "rarity": "Ultra Rare",
+        "rarity": "Ultra Selten",
         "types": [
             {
                 "type": "Normal",
                 "color": "#8a8a59"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -1074,14 +1074,14 @@
     },
     "84": {
         "name": "Dodu",
-        "rarity": "Uncommon",
+        "rarity": "Nicht Häufig",
         "types": [
             {
                 "type": "Normal",
                 "color": "#8a8a59"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -1089,14 +1089,14 @@
     },
     "85": {
         "name": "Dodri",
-        "rarity": "Very Rare",
+        "rarity": "Sehr Selten",
         "types": [
             {
                 "type": "Normal",
                 "color": "#8a8a59"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -1104,10 +1104,10 @@
     },
     "86": {
         "name": "Jurob",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -1115,14 +1115,14 @@
     },
     "87": {
         "name": "Jugong",
-        "rarity": "Ultra Rare",
+        "rarity": "Ultra Selten",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             },
             {
-                "type": "Ice",
+                "type": "Eis",
                 "color": "#98d8d8"
             }
         ],
@@ -1130,10 +1130,10 @@
     },
     "88": {
         "name": "Sleima",
-        "rarity": "Very Rare",
+        "rarity": "Sehr Selten",
         "types": [
             {
-                "type": "Poison",
+                "type": "Gift",
                 "color": "#a040a0"
             }
         ],
@@ -1141,10 +1141,10 @@
     },
     "89": {
         "name": "Sleimok",
-        "rarity": "Ultra Rare",
+        "rarity": "Ultra Selten",
         "types": [
             {
-                "type": "Poison",
+                "type": "Gift",
                 "color": "#a040a0"
             }
         ],
@@ -1152,10 +1152,10 @@
     },
     "90": {
         "name": "Muschas",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -1163,14 +1163,14 @@
     },
     "91": {
         "name": "Austos",
-        "rarity": "Ultra Rare",
+        "rarity": "Ultra Selten",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             },
             {
-                "type": "Ice",
+                "type": "Eis",
                 "color": "#98d8d8"
             }
         ],
@@ -1178,14 +1178,14 @@
     },
     "92": {
         "name": "Nebulak",
-        "rarity": "Uncommon",
+        "rarity": "Nicht Häufig",
         "types": [
             {
-                "type": "Ghost",
+                "type": "Geist",
                 "color": "#705898"
             },
             {
-                "type": "Poison",
+                "type": "Gift",
                 "color": "#a040a0"
             }
         ],
@@ -1193,14 +1193,14 @@
     },
     "93": {
         "name": "Alpollo",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
-                "type": "Ghost",
+                "type": "Geist",
                 "color": "#705898"
             },
             {
-                "type": "Poison",
+                "type": "Gift",
                 "color": "#a040a0"
             }
         ],
@@ -1208,14 +1208,14 @@
     },
     "94": {
         "name": "Gengar",
-        "rarity": "Ultra Rare",
+        "rarity": "Ultra Selten",
         "types": [
             {
-                "type": "Ghost",
+                "type": "Geist",
                 "color": "#705898"
             },
             {
-                "type": "Poison",
+                "type": "Gift",
                 "color": "#a040a0"
             }
         ],
@@ -1223,14 +1223,14 @@
     },
     "95": {
         "name": "Onix",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
-                "type": "Rock",
+                "type": "Gestein",
                 "color": "#b8a038"
             },
             {
-                "type": "Ground",
+                "type": "Boden",
                 "color": "#e0c068"
             }
         ],
@@ -1238,7 +1238,7 @@
     },
     "96": {
         "name": "Traumato",
-        "rarity": "Uncommon",
+        "rarity": "Nicht Häufig",
         "types": [
             {
                 "type": "Psychic",
@@ -1249,7 +1249,7 @@
     },
     "97": {
         "name": "Hypno",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
                 "type": "Psychic",
@@ -1260,10 +1260,10 @@
     },
     "98": {
         "name": "Krabby",
-        "rarity": "Uncommon",
+        "rarity": "Nicht Häufig",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -1271,10 +1271,10 @@
     },
     "99": {
         "name": "Kingler",
-        "rarity": "Very Rare",
+        "rarity": "Sehr Selten",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -1282,10 +1282,10 @@
     },
     "100": {
         "name": "Voltobal",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
-                "type": "Electric",
+                "type": "Elektro",
                 "color": "#f8d030"
             }
         ],
@@ -1293,10 +1293,10 @@
     },
     "101": {
         "name": "Lektrobal",
-        "rarity": "Ultra Rare",
+        "rarity": "Ultra Selten",
         "types": [
             {
-                "type": "Electric",
+                "type": "Elektro",
                 "color": "#f8d030"
             }
         ],
@@ -1304,10 +1304,10 @@
     },
     "102": {
         "name": "Owei",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             },
             {
@@ -1319,10 +1319,10 @@
     },
     "103": {
         "name": "Kokowei",
-        "rarity": "Very Rare",
+        "rarity": "Sehr Selten",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             },
             {
@@ -1334,10 +1334,10 @@
     },
     "104": {
         "name": "Tragosso",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
-                "type": "Ground",
+                "type": "Boden",
                 "color": "#e0c068"
             }
         ],
@@ -1345,10 +1345,10 @@
     },
     "105": {
         "name": "Knogga",
-        "rarity": "Very Rare",
+        "rarity": "Sehr Selten",
         "types": [
             {
-                "type": "Ground",
+                "type": "Boden",
                 "color": "#e0c068"
             }
         ],
@@ -1356,10 +1356,10 @@
     },
     "106": {
         "name": "Kicklee",
-        "rarity": "Very Rare",
+        "rarity": "Sehr Selten",
         "types": [
             {
-                "type": "Fighting",
+                "type": "Kampf",
                 "color": "#c03028"
             }
         ],
@@ -1367,10 +1367,10 @@
     },
     "107": {
         "name": "Nockchan",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
-                "type": "Fighting",
+                "type": "Kampf",
                 "color": "#c03028"
             }
         ],
@@ -1378,7 +1378,7 @@
     },
     "108": {
         "name": "Schlurp",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
                 "type": "Normal",
@@ -1389,10 +1389,10 @@
     },
     "109": {
         "name": "Smogon",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
-                "type": "Poison",
+                "type": "Gift",
                 "color": "#a040a0"
             }
         ],
@@ -1400,10 +1400,10 @@
     },
     "110": {
         "name": "Smogmog",
-        "rarity": "Very Rare",
+        "rarity": "Sehr Selten",
         "types": [
             {
-                "type": "Poison",
+                "type": "Gift",
                 "color": "#a040a0"
             }
         ],
@@ -1411,14 +1411,14 @@
     },
     "111": {
         "name": "Rihorn",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
-                "type": "Ground",
+                "type": "Boden",
                 "color": "#e0c068"
             },
             {
-                "type": "Rock",
+                "type": "Gestein",
                 "color": "#b8a038"
             }
         ],
@@ -1426,14 +1426,14 @@
     },
     "112": {
         "name": "Rizeros",
-        "rarity": "Very Rare",
+        "rarity": "Sehr Selten",
         "types": [
             {
-                "type": "Ground",
+                "type": "Boden",
                 "color": "#e0c068"
             },
             {
-                "type": "Rock",
+                "type": "Gestein",
                 "color": "#b8a038"
             }
         ],
@@ -1441,7 +1441,7 @@
     },
     "113": {
         "name": "Chaneira",
-        "rarity": "Very Rare",
+        "rarity": "Sehr Selten",
         "types": [
             {
                 "type": "Normal",
@@ -1452,10 +1452,10 @@
     },
     "114": {
         "name": "Tangela",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             }
         ],
@@ -1463,7 +1463,7 @@
     },
     "115": {
         "name": "Kangama",
-        "rarity": "Ultra Rare",
+        "rarity": "Ultra Selten",
         "types": [
             {
                 "type": "Normal",
@@ -1474,10 +1474,10 @@
     },
     "116": {
         "name": "Seeper",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -1485,10 +1485,10 @@
     },
     "117": {
         "name": "Seemon",
-        "rarity": "Very Rare",
+        "rarity": "Sehr Selten",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -1496,10 +1496,10 @@
     },
     "118": {
         "name": "Goldini",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -1507,10 +1507,10 @@
     },
     "119": {
         "name": "Golking",
-        "rarity": "Very Rare",
+        "rarity": "Sehr Selten",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -1518,10 +1518,10 @@
     },
     "120": {
         "name": "Sterndu",
-        "rarity": "Uncommon",
+        "rarity": "Nicht Häufig",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -1529,10 +1529,10 @@
     },
     "121": {
         "name": "Starmie",
-        "rarity": "Very Rare",
+        "rarity": "Sehr Selten",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             },
             {
@@ -1544,14 +1544,14 @@
     },
     "122": {
         "name": "Jr. Jr.",
-        "rarity": "Very Rare",
+        "rarity": "Sehr Selten",
         "types": [
             {
                 "type": "Psychic",
                 "color": "#f85888"
             },
             {
-                "type": "Fairy",
+                "type": "Fee",
                 "color": "#e898e8"
             }
         ],
@@ -1559,14 +1559,14 @@
     },
     "123": {
         "name": "Sichlor",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -1574,10 +1574,10 @@
     },
     "124": {
         "name": "Rossana",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
-                "type": "Ice",
+                "type": "Eis",
                 "color": "#98d8d8"
             },
             {
@@ -1589,10 +1589,10 @@
     },
     "125": {
         "name": "Elektek",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
-                "type": "Electric",
+                "type": "Elektro",
                 "color": "#f8d030"
             }
         ],
@@ -1600,10 +1600,10 @@
     },
     "126": {
         "name": "Magmar",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
-                "type": "Fire",
+                "type": "Feuer",
                 "color": "#f08030"
             }
         ],
@@ -1611,10 +1611,10 @@
     },
     "127": {
         "name": "Pinsir",
-        "rarity": "Uncommon",
+        "rarity": "Nicht Häufig",
         "types": [
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             }
         ],
@@ -1622,7 +1622,7 @@
     },
     "128": {
         "name": "Tauros",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
                 "type": "Normal",
@@ -1633,10 +1633,10 @@
     },
     "129": {
         "name": "Karpador",
-        "rarity": "Uncommon",
+        "rarity": "Nicht Häufig",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -1644,14 +1644,14 @@
     },
     "130": {
         "name": "Garados",
-        "rarity": "Ultra Rare",
+        "rarity": "Ultra Selten",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -1659,14 +1659,14 @@
     },
     "131": {
         "name": "Lapras",
-        "rarity": "Very Rare",
+        "rarity": "Sehr Selten",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             },
             {
-                "type": "Ice",
+                "type": "Eis",
                 "color": "#98d8d8"
             }
         ],
@@ -1674,7 +1674,7 @@
     },
     "132": {
         "name": "Ditto",
-        "rarity": "Ultra Rare",
+        "rarity": "Ultra Selten",
         "types": [
             {
                 "type": "Normal",
@@ -1685,7 +1685,7 @@
     },
     "133": {
         "name": "Evoli",
-        "rarity": "Common",
+        "rarity": "Häufig",
         "types": [
             {
                 "type": "Normal",
@@ -1696,10 +1696,10 @@
     },
     "134": {
         "name": "Aquana",
-        "rarity": "Very Rare",
+        "rarity": "Sehr Selten",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -1707,10 +1707,10 @@
     },
     "135": {
         "name": "Blitza",
-        "rarity": "Very Rare",
+        "rarity": "Sehr Selten",
         "types": [
             {
-                "type": "Electric",
+                "type": "Elektro",
                 "color": "#f8d030"
             }
         ],
@@ -1718,10 +1718,10 @@
     },
     "136": {
         "name": "Flamara",
-        "rarity": "Ultra Rare",
+        "rarity": "Ultra Selten",
         "types": [
             {
-                "type": "Fire",
+                "type": "Feuer",
                 "color": "#f08030"
             }
         ],
@@ -1729,7 +1729,7 @@
     },
     "137": {
         "name": "Porygon",
-        "rarity": "Very Rare",
+        "rarity": "Sehr Selten",
         "types": [
             {
                 "type": "Normal",
@@ -1740,14 +1740,14 @@
     },
     "138": {
         "name": "Amonitas",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
-                "type": "Rock",
+                "type": "Gestein",
                 "color": "#b8a038"
             },
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -1755,14 +1755,14 @@
     },
     "139": {
         "name": "Amoroso",
-        "rarity": "Ultra Rare",
+        "rarity": "Ultra Selten",
         "types": [
             {
-                "type": "Rock",
+                "type": "Gestein",
                 "color": "#b8a038"
             },
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -1770,14 +1770,14 @@
     },
     "140": {
         "name": "Kabuto",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
-                "type": "Rock",
+                "type": "Gestein",
                 "color": "#b8a038"
             },
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -1785,14 +1785,14 @@
     },
     "141": {
         "name": "Kabutops",
-        "rarity": "Ultra Rare",
+        "rarity": "Ultra Selten",
         "types": [
             {
-                "type": "Rock",
+                "type": "Gestein",
                 "color": "#b8a038"
             },
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -1800,14 +1800,14 @@
     },
     "142": {
         "name": "Aerodactyl",
-        "rarity": "Very Rare",
+        "rarity": "Sehr Selten",
         "types": [
             {
-                "type": "Rock",
+                "type": "Gestein",
                 "color": "#b8a038"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -1815,7 +1815,7 @@
     },
     "143": {
         "name": "Relaxo",
-        "rarity": "Very Rare",
+        "rarity": "Sehr Selten",
         "types": [
             {
                 "type": "Normal",
@@ -1826,14 +1826,14 @@
     },
     "144": {
         "name": "Arktos",
-        "rarity": "Ultra Rare",
+        "rarity": "Ultra Selten",
         "types": [
             {
-                "type": "Ice",
+                "type": "Eis",
                 "color": "#98d8d8"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -1841,14 +1841,14 @@
     },
     "145": {
         "name": "Zapdos",
-        "rarity": "Ultra Rare",
+        "rarity": "Ultra Selten",
         "types": [
             {
-                "type": "Electric",
+                "type": "Elektro",
                 "color": "#f8d030"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -1856,14 +1856,14 @@
     },
     "146": {
         "name": "Lavados",
-        "rarity": "Ultra Rare",
+        "rarity": "Ultra Selten",
         "types": [
             {
-                "type": "Fire",
+                "type": "Feuer",
                 "color": "#f08030"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -1871,10 +1871,10 @@
     },
     "147": {
         "name": "Dratini",
-        "rarity": "Uncommon",
+        "rarity": "Nicht Häufig",
         "types": [
             {
-                "type": "Dragon",
+                "type": "Drache",
                 "color": "#7038f8"
             }
         ],
@@ -1882,10 +1882,10 @@
     },
     "148": {
         "name": "Dragonir",
-        "rarity": "Very Rare",
+        "rarity": "Sehr Selten",
         "types": [
             {
-                "type": "Dragon",
+                "type": "Drache",
                 "color": "#7038f8"
             }
         ],
@@ -1893,14 +1893,14 @@
     },
     "149": {
         "name": "Dragoran",
-        "rarity": "Very Rare",
+        "rarity": "Sehr Selten",
         "types": [
             {
-                "type": "Dragon",
+                "type": "Drache",
                 "color": "#7038f8"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -1908,7 +1908,7 @@
     },
     "150": {
         "name": "Mewtu",
-        "rarity": "Ultra Rare",
+        "rarity": "Ultra Selten",
         "types": [
             {
                 "type": "Psychic",
@@ -1919,7 +1919,7 @@
     },
     "151": {
         "name": "Mew",
-        "rarity": "Ultra Rare",
+        "rarity": "Ultra Selten",
         "types": [
             {
                 "type": "Psychic",
@@ -1930,10 +1930,10 @@
     },
     "152": {
         "name": "Endivie",
-        "rarity": "Uncommon",
+        "rarity": "Nicht Häufig",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             }
         ],
@@ -1941,10 +1941,10 @@
     },
     "153": {
         "name": "Lorblatt",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             }
         ],
@@ -1952,10 +1952,10 @@
     },
     "154": {
         "name": "Meganie",
-        "rarity": "Very Rare",
+        "rarity": "Sehr Selten",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             }
         ],
@@ -1963,10 +1963,10 @@
     },
     "155": {
         "name": "Feurigel",
-        "rarity": "Uncommon",
+        "rarity": "Nicht Häufig",
         "types": [
             {
-                "type": "Fire",
+                "type": "Feuer",
                 "color": "#f08030"
             }
         ],
@@ -1974,10 +1974,10 @@
     },
     "156": {
         "name": "Igelavar",
-        "rarity": "Very Rare",
+        "rarity": "Sehr Selten",
         "types": [
             {
-                "type": "Fire",
+                "type": "Feuer",
                 "color": "#f08030"
             }
         ],
@@ -1985,10 +1985,10 @@
     },
     "157": {
         "name": "Tornupto",
-        "rarity": "Ultra Rare",
+        "rarity": "Ultra Selten",
         "types": [
             {
-                "type": "Fire",
+                "type": "Feuer",
                 "color": "#f08030"
             }
         ],
@@ -1996,10 +1996,10 @@
     },
     "158": {
         "name": "Karnimani",
-        "rarity": "Uncommon",
+        "rarity": "Nicht Häufig",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -2007,10 +2007,10 @@
     },
     "159": {
         "name": "Tyracroc",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -2018,10 +2018,10 @@
     },
     "160": {
         "name": "Impergator",
-        "rarity": "Very Rare",
+        "rarity": "Sehr Selten",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -2029,7 +2029,7 @@
     },
     "161": {
         "name": "Wiesor",
-        "rarity": "Common",
+        "rarity": "Häufig",
         "types": [
             {
                 "type": "Normal",
@@ -2040,7 +2040,7 @@
     },
     "162": {
         "name": "Wiesenior",
-        "rarity": "Uncommon",
+        "rarity": "Nicht Häufig",
         "types": [
             {
                 "type": "Normal",
@@ -2051,14 +2051,14 @@
     },
     "163": {
         "name": "Hoothoot",
-        "rarity": "Common",
+        "rarity": "Häufig",
         "types": [
             {
                 "type": "Normal",
                 "color": "#8a8a59"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -2066,14 +2066,14 @@
     },
     "164": {
         "name": "Noctuh",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
                 "type": "Normal",
                 "color": "#8a8a59"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -2081,14 +2081,14 @@
     },
     "165": {
         "name": "Ledyba",
-        "rarity": "Common",
+        "rarity": "Häufig",
         "types": [
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -2096,14 +2096,14 @@
     },
     "166": {
         "name": "Ledian",
-        "rarity": "Uncommon",
+        "rarity": "Nicht Häufig",
         "types": [
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -2111,14 +2111,14 @@
     },
     "167": {
         "name": "Webarak",
-        "rarity": "Common",
+        "rarity": "Häufig",
         "types": [
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             },
             {
-                "type": "Poison",
+                "type": "Gift",
                 "color": "#a040a0"
             }
         ],
@@ -2126,14 +2126,14 @@
     },
     "168": {
         "name": "Ariados",
-        "rarity": "Uncommon",
+        "rarity": "Nicht Häufig",
         "types": [
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             },
             {
-                "type": "Poison",
+                "type": "Gift",
                 "color": "#a040a0"
             }
         ],
@@ -2141,14 +2141,14 @@
     },
     "169": {
         "name": "Iksbat",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
-                "type": "Poison",
+                "type": "Gift",
                 "color": "#a040a0"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -2156,14 +2156,14 @@
     },
     "170": {
         "name": "Lampi",
-        "rarity": "Uncommon",
+        "rarity": "Nicht Häufig",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             },
             {
-                "type": "Electric",
+                "type": "Elektro",
                 "color": "#f8d030"
             }
         ],
@@ -2171,14 +2171,14 @@
     },
     "171": {
         "name": "Lanturn",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             },
             {
-                "type": "Electric",
+                "type": "Elektro",
                 "color": "#f8d030"
             }
         ],
@@ -2186,10 +2186,10 @@
     },
     "172": {
         "name": "Pichu",
-        "rarity": "Very Rare",
+        "rarity": "Sehr Selten",
         "types": [
             {
-                "type": "Electric",
+                "type": "Elektro",
                 "color": "#f8d030"
             }
         ],
@@ -2197,10 +2197,10 @@
     },
     "173": {
         "name": "Pii",
-        "rarity": "Very Rare",
+        "rarity": "Sehr Selten",
         "types": [
             {
-                "type": "Fairy",
+                "type": "Fee",
                 "color": "#e898e8"
             }
         ],
@@ -2208,14 +2208,14 @@
     },
     "174": {
         "name": "Fluffeluff",
-        "rarity": "Very Rare",
+        "rarity": "Sehr Selten",
         "types": [
             {
                 "type": "Normal",
                 "color": "#8a8a59"
             },
             {
-                "type": "Fairy",
+                "type": "Fee",
                 "color": "#e898e8"
             }
         ],
@@ -2223,10 +2223,10 @@
     },
     "175": {
         "name": "Togepi",
-        "rarity": "Very Rare",
+        "rarity": "Sehr Selten",
         "types": [
             {
-                "type": "Fairy",
+                "type": "Fee",
                 "color": "#e898e8"
             }
         ],
@@ -2234,14 +2234,14 @@
     },
     "176": {
         "name": "Togetic",
-        "rarity": "Ultra Rare",
+        "rarity": "Ultra Selten",
         "types": [
             {
-                "type": "Fairy",
+                "type": "Fee",
                 "color": "#e898e8"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -2249,14 +2249,14 @@
     },
     "177": {
         "name": "Natu",
-        "rarity": "Common",
+        "rarity": "Häufig",
         "types": [
             {
                 "type": "Psychic",
                 "color": "#f85888"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -2264,14 +2264,14 @@
     },
     "178": {
         "name": "Xatu",
-        "rarity": "Uncommon",
+        "rarity": "Nicht Häufig",
         "types": [
             {
                 "type": "Psychic",
                 "color": "#f85888"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -2279,10 +2279,10 @@
     },
     "179": {
         "name": "Voltilamm",
-        "rarity": "Very Rare",
+        "rarity": "Sehr Selten",
         "types": [
             {
-                "type": "Electric",
+                "type": "Elektro",
                 "color": "#f8d030"
             }
         ],
@@ -2290,10 +2290,10 @@
     },
     "180": {
         "name": "Waaty",
-        "rarity": "Ultra Rare",
+        "rarity": "Ultra Selten",
         "types": [
             {
-                "type": "Electric",
+                "type": "Elektro",
                 "color": "#f8d030"
             }
         ],
@@ -2301,10 +2301,10 @@
     },
     "181": {
         "name": "Ampharos",
-        "rarity": "Ultra Rare",
+        "rarity": "Ultra Selten",
         "types": [
             {
-                "type": "Electric",
+                "type": "Elektro",
                 "color": "#f8d030"
             }
         ],
@@ -2312,10 +2312,10 @@
     },
     "182": {
         "name": "Blubella",
-        "rarity": "Ultra Rare",
+        "rarity": "Ultra Selten",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             }
         ],
@@ -2323,14 +2323,14 @@
     },
     "183": {
         "name": "Marill",
-        "rarity": "Common",
+        "rarity": "Häufig",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             },
             {
-                "type": "Fairy",
+                "type": "Fee",
                 "color": "#e898e8"
             }
         ],
@@ -2338,14 +2338,14 @@
     },
     "184": {
         "name": "Azumarill",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             },
             {
-                "type": "Fairy",
+                "type": "Fee",
                 "color": "#e898e8"
             }
         ],
@@ -2353,10 +2353,10 @@
     },
     "185": {
         "name": "Mogelbaum",
-        "rarity": "Uncommon",
+        "rarity": "Nicht Häufig",
         "types": [
             {
-                "type": "Rock",
+                "type": "Gestein",
                 "color": "#b8a038"
             }
         ],
@@ -2364,10 +2364,10 @@
     },
     "186": {
         "name": "Quaxo",
-        "rarity": "Ultra Rare",
+        "rarity": "Ultra Selten",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -2375,14 +2375,14 @@
     },
     "187": {
         "name": "Hoppspross",
-        "rarity": "Common",
+        "rarity": "Häufig",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -2390,14 +2390,14 @@
     },
     "188": {
         "name": "Hubelupf",
-        "rarity": "Uncommon",
+        "rarity": "Nicht Häufig",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -2405,14 +2405,14 @@
     },
     "189": {
         "name": "Papungha",
-        "rarity": "Very Rare",
+        "rarity": "Sehr Selten",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -2420,7 +2420,7 @@
     },
     "190": {
         "name": "Griffel",
-        "rarity": "Uncommon",
+        "rarity": "Nicht Häufig",
         "types": [
             {
                 "type": "Normal",
@@ -2431,10 +2431,10 @@
     },
     "191": {
         "name": "Sonnkern",
-        "rarity": "Common",
+        "rarity": "Häufig",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             }
         ],
@@ -2442,10 +2442,10 @@
     },
     "192": {
         "name": "Sonnflora",
-        "rarity": "Ultra Rare",
+        "rarity": "Ultra Selten",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             }
         ],
@@ -2453,14 +2453,14 @@
     },
     "193": {
         "name": "Yanma",
-        "rarity": "Uncommon",
+        "rarity": "Nicht Häufig",
         "types": [
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -2468,14 +2468,14 @@
     },
     "194": {
         "name": "Felino",
-        "rarity": "Common",
+        "rarity": "Häufig",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             },
             {
-                "type": "Ground",
+                "type": "Boden",
                 "color": "#e0c068"
             }
         ],
@@ -2483,14 +2483,14 @@
     },
     "195": {
         "name": "Morlord",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             },
             {
-                "type": "Ground",
+                "type": "Boden",
                 "color": "#e0c068"
             }
         ],
@@ -2498,7 +2498,7 @@
     },
     "196": {
         "name": "Psiana",
-        "rarity": "Ultra Rare",
+        "rarity": "Ultra Selten",
         "types": [
             {
                 "type": "Psychic",
@@ -2509,10 +2509,10 @@
     },
     "197": {
         "name": "Nachtara",
-        "rarity": "Ultra Rare",
+        "rarity": "Ultra Selten",
         "types": [
             {
-                "type": "Dark",
+                "type": "Unlicht",
                 "color": "#707070"
             }
         ],
@@ -2520,14 +2520,14 @@
     },
     "198": {
         "name": "Kramurx",
-        "rarity": "Common",
+        "rarity": "Häufig",
         "types": [
             {
-                "type": "Dark",
+                "type": "Unlicht",
                 "color": "#707070"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -2535,10 +2535,10 @@
     },
     "199": {
         "name": "Laschoking",
-        "rarity": "Ultra Rare",
+        "rarity": "Ultra Selten",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             },
             {
@@ -2550,10 +2550,10 @@
     },
     "200": {
         "name": "Traunfugil",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
-                "type": "Ghost",
+                "type": "Geist",
                 "color": "#705898"
             }
         ],
@@ -2561,7 +2561,7 @@
     },
     "201": {
         "name": "Icognito",
-        "rarity": "Ultra Rare",
+        "rarity": "Ultra Selten",
         "types": [
             {
                 "type": "Psychic",
@@ -2572,7 +2572,7 @@
     },
     "202": {
         "name": "Woingenau",
-        "rarity": "Very Rare",
+        "rarity": "Sehr Selten",
         "types": [
             {
                 "type": "Psychic",
@@ -2583,7 +2583,7 @@
     },
     "203": {
         "name": "Girafarig",
-        "rarity": "Ultra Rare",
+        "rarity": "Ultra Selten",
         "types": [
             {
                 "type": "Normal",
@@ -2598,10 +2598,10 @@
     },
     "204": {
         "name": "Tannza",
-        "rarity": "Very Rare",
+        "rarity": "Sehr Selten",
         "types": [
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             }
         ],
@@ -2609,14 +2609,14 @@
     },
     "205": {
         "name": "Forstellka",
-        "rarity": "Ultra Rare",
+        "rarity": "Ultra Selten",
         "types": [
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             },
             {
-                "type": "Steel",
+                "type": "Stahl",
                 "color": "#b8b8d0"
             }
         ],
@@ -2624,7 +2624,7 @@
     },
     "206": {
         "name": "Dummisel",
-        "rarity": "Uncommon",
+        "rarity": "Nicht Häufig",
         "types": [
             {
                 "type": "Normal",
@@ -2635,14 +2635,14 @@
     },
     "207": {
         "name": "Skorgla",
-        "rarity": "Very Rare",
+        "rarity": "Sehr Selten",
         "types": [
             {
-                "type": "Ground",
+                "type": "Boden",
                 "color": "#e0c068"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -2650,14 +2650,14 @@
     },
     "208": {
         "name": "Stahlos",
-        "rarity": "Ultra Rare",
+        "rarity": "Ultra Selten",
         "types": [
             {
-                "type": "Steel",
+                "type": "Stahl",
                 "color": "#b8b8d0"
             },
             {
-                "type": "Ground",
+                "type": "Boden",
                 "color": "#e0c068"
             }
         ],
@@ -2665,10 +2665,10 @@
     },
     "209": {
         "name": "Snubbull",
-        "rarity": "Uncommon",
+        "rarity": "Nicht Häufig",
         "types": [
             {
-                "type": "Fairy",
+                "type": "Fee",
                 "color": "#e898e8"
             }
         ],
@@ -2676,10 +2676,10 @@
     },
     "210": {
         "name": "Granbull",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
-                "type": "Fairy",
+                "type": "Fee",
                 "color": "#e898e8"
             }
         ],
@@ -2687,14 +2687,14 @@
     },
     "211": {
         "name": "Baldorfish",
-        "rarity": "Very Rare",
+        "rarity": "Sehr Selten",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             },
             {
-                "type": "Poison",
+                "type": "Gift",
                 "color": "#a040a0"
             }
         ],
@@ -2702,14 +2702,14 @@
     },
     "212": {
         "name": "Scherox",
-        "rarity": "Ultra Rare",
+        "rarity": "Ultra Selten",
         "types": [
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             },
             {
-                "type": "Steel",
+                "type": "Stahl",
                 "color": "#b8b8d0"
             }
         ],
@@ -2717,14 +2717,14 @@
     },
     "213": {
         "name": "Pottrott",
-        "rarity": "Ultra Rare",
+        "rarity": "Ultra Selten",
         "types": [
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             },
             {
-                "type": "Rock",
+                "type": "Gestein",
                 "color": "#b8a038"
             }
         ],
@@ -2732,14 +2732,14 @@
     },
     "214": {
         "name": "Skaraborn",
-        "rarity": "Ultra Rare",
+        "rarity": "Ultra Selten",
         "types": [
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             },
             {
-                "type": "Fighting",
+                "type": "Kampf",
                 "color": "#c03028"
             }
         ],
@@ -2747,14 +2747,14 @@
     },
     "215": {
         "name": "Sniebel",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
-                "type": "Dark",
+                "type": "Unlicht",
                 "color": "#707070"
             },
             {
-                "type": "Ice",
+                "type": "Eis",
                 "color": "#98d8d8"
             }
         ],
@@ -2762,7 +2762,7 @@
     },
     "216": {
         "name": "Teddiursa",
-        "rarity": "Uncommon",
+        "rarity": "Nicht Häufig",
         "types": [
             {
                 "type": "Normal",
@@ -2773,7 +2773,7 @@
     },
     "217": {
         "name": "Ursaring",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
                 "type": "Normal",
@@ -2784,10 +2784,10 @@
     },
     "218": {
         "name": "Schneckmag",
-        "rarity": "Uncommon",
+        "rarity": "Nicht Häufig",
         "types": [
             {
-                "type": "Fire",
+                "type": "Feuer",
                 "color": "#f08030"
             }
         ],
@@ -2795,14 +2795,14 @@
     },
     "219": {
         "name": "Magcargo",
-        "rarity": "Very Rare",
+        "rarity": "Sehr Selten",
         "types": [
             {
-                "type": "Fire",
+                "type": "Feuer",
                 "color": "#f08030"
             },
             {
-                "type": "Rock",
+                "type": "Gestein",
                 "color": "#b8a038"
             }
         ],
@@ -2810,14 +2810,14 @@
     },
     "220": {
         "name": "Quiekel",
-        "rarity": "Common",
+        "rarity": "Häufig",
         "types": [
             {
-                "type": "Ice",
+                "type": "Eis",
                 "color": "#98d8d8"
             },
             {
-                "type": "Ground",
+                "type": "Boden",
                 "color": "#e0c068"
             }
         ],
@@ -2825,14 +2825,14 @@
     },
     "221": {
         "name": "Keifel",
-        "rarity": "Ultra Rare",
+        "rarity": "Ultra Selten",
         "types": [
             {
-                "type": "Ice",
+                "type": "Eis",
                 "color": "#98d8d8"
             },
             {
-                "type": "Ground",
+                "type": "Boden",
                 "color": "#e0c068"
             }
         ],
@@ -2840,14 +2840,14 @@
     },
     "222": {
         "name": "Corasonn",
-        "rarity": "Ultra Rare",
+        "rarity": "Ultra Selten",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             },
             {
-                "type": "Rock",
+                "type": "Gestein",
                 "color": "#b8a038"
             }
         ],
@@ -2855,10 +2855,10 @@
     },
     "223": {
         "name": "Remoraid",
-        "rarity": "Uncommon",
+        "rarity": "Nicht Häufig",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -2866,10 +2866,10 @@
     },
     "224": {
         "name": "Octillery",
-        "rarity": "Uncommon",
+        "rarity": "Nicht Häufig",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -2877,14 +2877,14 @@
     },
     "225": {
         "name": "Botogel",
-        "rarity": "Ultra Rare",
+        "rarity": "Ultra Selten",
         "types": [
             {
-                "type": "Ice",
+                "type": "Eis",
                 "color": "#98d8d8"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -2892,14 +2892,14 @@
     },
     "226": {
         "name": "Mantax",
-        "rarity": "Uncommon",
+        "rarity": "Nicht Häufig",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -2907,14 +2907,14 @@
     },
     "227": {
         "name": "Panzaeron",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
-                "type": "Steel",
+                "type": "Stahl",
                 "color": "#b8b8d0"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -2922,14 +2922,14 @@
     },
     "228": {
         "name": "Hunduster",
-        "rarity": "Uncommon",
+        "rarity": "Nicht Häufig",
         "types": [
             {
-                "type": "Dark",
+                "type": "Unlicht",
                 "color": "#707070"
             },
             {
-                "type": "Fire",
+                "type": "Feuer",
                 "color": "#f08030"
             }
         ],
@@ -2937,14 +2937,14 @@
     },
     "229": {
         "name": "Hundemon",
-        "rarity": "Very Rare",
+        "rarity": "Sehr Selten",
         "types": [
             {
-                "type": "Dark",
+                "type": "Unlicht",
                 "color": "#707070"
             },
             {
-                "type": "Fire",
+                "type": "Feuer",
                 "color": "#f08030"
             }
         ],
@@ -2952,14 +2952,14 @@
     },
     "230": {
         "name": "Seedraking",
-        "rarity": "Ultra Rare",
+        "rarity": "Ultra Selten",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             },
             {
-                "type": "Dragon",
+                "type": "Drache",
                 "color": "#7038f8"
             }
         ],
@@ -2967,10 +2967,10 @@
     },
     "231": {
         "name": "Phanpy",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
-                "type": "Ground",
+                "type": "Boden",
                 "color": "#e0c068"
             }
         ],
@@ -2978,10 +2978,10 @@
     },
     "232": {
         "name": "Donphan",
-        "rarity": "Very Rare",
+        "rarity": "Sehr Selten",
         "types": [
             {
-                "type": "Ground",
+                "type": "Boden",
                 "color": "#e0c068"
             }
         ],
@@ -2989,7 +2989,7 @@
     },
     "233": {
         "name": "Porygon2",
-        "rarity": "Ultra Rare",
+        "rarity": "Ultra Selten",
         "types": [
             {
                 "type": "Normal",
@@ -3000,7 +3000,7 @@
     },
     "234": {
         "name": "Damhirplex",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
                 "type": "Normal",
@@ -3011,7 +3011,7 @@
     },
     "235": {
         "name": "Farbeagle",
-        "rarity": "Ultra Rare",
+        "rarity": "Ultra Selten",
         "types": [
             {
                 "type": "Normal",
@@ -3022,10 +3022,10 @@
     },
     "236": {
         "name": "Rabauz",
-        "rarity": "Ultra Rare",
+        "rarity": "Ultra Selten",
         "types": [
             {
-                "type": "Fighting",
+                "type": "Kampf",
                 "color": "#c03028"
             }
         ],
@@ -3033,10 +3033,10 @@
     },
     "237": {
         "name": "Kapoera",
-        "rarity": "Ultra Rare",
+        "rarity": "Ultra Selten",
         "types": [
             {
-                "type": "Fighting",
+                "type": "Kampf",
                 "color": "#c03028"
             }
         ],
@@ -3044,10 +3044,10 @@
     },
     "238": {
         "name": "Kussilla",
-        "rarity": "Very Rare",
+        "rarity": "Sehr Selten",
         "types": [
             {
-                "type": "Ice",
+                "type": "Eis",
                 "color": "#98d8d8"
             },
             {
@@ -3059,10 +3059,10 @@
     },
     "239": {
         "name": "Elekid",
-        "rarity": "Very Rare",
+        "rarity": "Sehr Selten",
         "types": [
             {
-                "type": "Electric",
+                "type": "Elektro",
                 "color": "#f8d030"
             }
         ],
@@ -3070,10 +3070,10 @@
     },
     "240": {
         "name": "Magby",
-        "rarity": "Very Rare",
+        "rarity": "Sehr Selten",
         "types": [
             {
-                "type": "Fire",
+                "type": "Feuer",
                 "color": "#f08030"
             }
         ],
@@ -3081,7 +3081,7 @@
     },
     "241": {
         "name": "Miltank",
-        "rarity": "Very Rare",
+        "rarity": "Sehr Selten",
         "types": [
             {
                 "type": "Normal",
@@ -3092,7 +3092,7 @@
     },
     "242": {
         "name": "Heiteira",
-        "rarity": "Ultra Rare",
+        "rarity": "Ultra Selten",
         "types": [
             {
                 "type": "Normal",
@@ -3103,10 +3103,10 @@
     },
     "243": {
         "name": "Raikou",
-        "rarity": "Ultra Rare",
+        "rarity": "Ultra Selten",
         "types": [
             {
-                "type": "Electric",
+                "type": "Elektro",
                 "color": "#f8d030"
             }
         ],
@@ -3114,10 +3114,10 @@
     },
     "244": {
         "name": "Entei",
-        "rarity": "Ultra Rare",
+        "rarity": "Ultra Selten",
         "types": [
             {
-                "type": "Fire",
+                "type": "Feuer",
                 "color": "#f08030"
             }
         ],
@@ -3125,10 +3125,10 @@
     },
     "245": {
         "name": "Suicune",
-        "rarity": "Ultra Rare",
+        "rarity": "Ultra Selten",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -3136,14 +3136,14 @@
     },
     "246": {
         "name": "Larvitar",
-        "rarity": "Very Rare",
+        "rarity": "Sehr Selten",
         "types": [
             {
-                "type": "Rock",
+                "type": "Gestein",
                 "color": "#b8a038"
             },
             {
-                "type": "Ground",
+                "type": "Boden",
                 "color": "#e0c068"
             }
         ],
@@ -3151,14 +3151,14 @@
     },
     "247": {
         "name": "Pupitar",
-        "rarity": "Ultra Rare",
+        "rarity": "Ultra Selten",
         "types": [
             {
-                "type": "Rock",
+                "type": "Gestein",
                 "color": "#b8a038"
             },
             {
-                "type": "Ground",
+                "type": "Boden",
                 "color": "#e0c068"
             }
         ],
@@ -3166,14 +3166,14 @@
     },
     "248": {
         "name": "Despotar",
-        "rarity": "Ultra Rare",
+        "rarity": "Ultra Selten",
         "types": [
             {
-                "type": "Rock",
+                "type": "Gestein",
                 "color": "#b8a038"
             },
             {
-                "type": "Dark",
+                "type": "Unlicht",
                 "color": "#707070"
             }
         ],
@@ -3181,14 +3181,14 @@
     },
     "249": {
         "name": "Lugia",
-        "rarity": "Ultra Rare",
+        "rarity": "Ultra Selten",
         "types": [
             {
                 "type": "Psychic",
                 "color": "#f85888"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -3196,14 +3196,14 @@
     },
     "250": {
         "name": "Ho-oh",
-        "rarity": "Ultra Rare",
+        "rarity": "Ultra Selten",
         "types": [
             {
-                "type": "Fire",
+                "type": "Feuer",
                 "color": "#f08030"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -3211,14 +3211,14 @@
     },
     "251": {
         "name": "Celebi",
-        "rarity": "Ultra Rare",
+        "rarity": "Ultra Selten",
         "types": [
             {
                 "type": "Psychic",
                 "color": "#f85888"
             },
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             }
         ],
@@ -3229,7 +3229,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             }
         ],
@@ -3240,7 +3240,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             }
         ],
@@ -3251,7 +3251,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             }
         ],
@@ -3262,7 +3262,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Fire",
+                "type": "Feuer",
                 "color": "#f08030"
             }
         ],
@@ -3273,11 +3273,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Fire",
+                "type": "Feuer",
                 "color": "#f08030"
             },
             {
-                "type": "Fighting",
+                "type": "Kampf",
                 "color": "#c03028"
             }
         ],
@@ -3288,11 +3288,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Fire",
+                "type": "Feuer",
                 "color": "#f08030"
             },
             {
-                "type": "Fighting",
+                "type": "Kampf",
                 "color": "#c03028"
             }
         ],
@@ -3303,7 +3303,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -3314,11 +3314,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             },
             {
-                "type": "Ground",
+                "type": "Boden",
                 "color": "#e0c068"
             }
         ],
@@ -3329,11 +3329,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             },
             {
-                "type": "Ground",
+                "type": "Boden",
                 "color": "#e0c068"
             }
         ],
@@ -3344,7 +3344,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Dark",
+                "type": "Unlicht",
                 "color": "#707070"
             }
         ],
@@ -3355,7 +3355,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Dark",
+                "type": "Unlicht",
                 "color": "#707070"
             }
         ],
@@ -3388,7 +3388,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             }
         ],
@@ -3399,7 +3399,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             }
         ],
@@ -3410,11 +3410,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -3425,7 +3425,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             }
         ],
@@ -3436,11 +3436,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             },
             {
-                "type": "Poison",
+                "type": "Gift",
                 "color": "#a040a0"
             }
         ],
@@ -3451,11 +3451,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             },
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             }
         ],
@@ -3466,11 +3466,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             },
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             }
         ],
@@ -3481,11 +3481,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             },
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             }
         ],
@@ -3496,7 +3496,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             }
         ],
@@ -3507,11 +3507,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             },
             {
-                "type": "Dark",
+                "type": "Unlicht",
                 "color": "#707070"
             }
         ],
@@ -3522,11 +3522,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             },
             {
-                "type": "Dark",
+                "type": "Unlicht",
                 "color": "#707070"
             }
         ],
@@ -3541,7 +3541,7 @@
                 "color": "#8a8a59"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -3556,7 +3556,7 @@
                 "color": "#8a8a59"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -3567,11 +3567,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -3582,11 +3582,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -3601,7 +3601,7 @@
                 "color": "#f85888"
             },
             {
-                "type": "Fairy",
+                "type": "Fee",
                 "color": "#e898e8"
             }
         ],
@@ -3616,7 +3616,7 @@
                 "color": "#f85888"
             },
             {
-                "type": "Fairy",
+                "type": "Fee",
                 "color": "#e898e8"
             }
         ],
@@ -3631,7 +3631,7 @@
                 "color": "#f85888"
             },
             {
-                "type": "Fairy",
+                "type": "Fee",
                 "color": "#e898e8"
             }
         ],
@@ -3642,11 +3642,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             },
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -3657,11 +3657,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -3672,7 +3672,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             }
         ],
@@ -3683,11 +3683,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             },
             {
-                "type": "Fighting",
+                "type": "Kampf",
                 "color": "#c03028"
             }
         ],
@@ -3731,11 +3731,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             },
             {
-                "type": "Ground",
+                "type": "Boden",
                 "color": "#e0c068"
             }
         ],
@@ -3746,11 +3746,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -3761,11 +3761,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             },
             {
-                "type": "Ghost",
+                "type": "Geist",
                 "color": "#705898"
             }
         ],
@@ -3809,7 +3809,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Fighting",
+                "type": "Kampf",
                 "color": "#c03028"
             }
         ],
@@ -3820,7 +3820,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Fighting",
+                "type": "Kampf",
                 "color": "#c03028"
             }
         ],
@@ -3835,7 +3835,7 @@
                 "color": "#8a8a59"
             },
             {
-                "type": "Fairy",
+                "type": "Fee",
                 "color": "#e898e8"
             }
         ],
@@ -3846,7 +3846,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Rock",
+                "type": "Gestein",
                 "color": "#b8a038"
             }
         ],
@@ -3876,14 +3876,14 @@
     },
     "302": {
         "name": "Zobiris",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
-                "type": "Dark",
+                "type": "Unlicht",
                 "color": "#707070"
             },
             {
-                "type": "Ghost",
+                "type": "Geist",
                 "color": "#705898"
             }
         ],
@@ -3894,11 +3894,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Steel",
+                "type": "Stahl",
                 "color": "#b8b8d0"
             },
             {
-                "type": "Fairy",
+                "type": "Fee",
                 "color": "#e898e8"
             }
         ],
@@ -3909,11 +3909,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Steel",
+                "type": "Stahl",
                 "color": "#b8b8d0"
             },
             {
-                "type": "Rock",
+                "type": "Gestein",
                 "color": "#b8a038"
             }
         ],
@@ -3924,11 +3924,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Steel",
+                "type": "Stahl",
                 "color": "#b8b8d0"
             },
             {
-                "type": "Rock",
+                "type": "Gestein",
                 "color": "#b8a038"
             }
         ],
@@ -3939,11 +3939,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Steel",
+                "type": "Stahl",
                 "color": "#b8b8d0"
             },
             {
-                "type": "Rock",
+                "type": "Gestein",
                 "color": "#b8a038"
             }
         ],
@@ -3954,7 +3954,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Fighting",
+                "type": "Kampf",
                 "color": "#c03028"
             },
             {
@@ -3969,7 +3969,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Fighting",
+                "type": "Kampf",
                 "color": "#c03028"
             },
             {
@@ -3984,7 +3984,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Electric",
+                "type": "Elektro",
                 "color": "#f8d030"
             }
         ],
@@ -3995,7 +3995,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Electric",
+                "type": "Elektro",
                 "color": "#f8d030"
             }
         ],
@@ -4006,7 +4006,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Electric",
+                "type": "Elektro",
                 "color": "#f8d030"
             }
         ],
@@ -4017,7 +4017,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Electric",
+                "type": "Elektro",
                 "color": "#f8d030"
             }
         ],
@@ -4028,7 +4028,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             }
         ],
@@ -4039,7 +4039,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             }
         ],
@@ -4050,11 +4050,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             },
             {
-                "type": "Poison",
+                "type": "Gift",
                 "color": "#a040a0"
             }
         ],
@@ -4065,7 +4065,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Poison",
+                "type": "Gift",
                 "color": "#a040a0"
             }
         ],
@@ -4076,7 +4076,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Poison",
+                "type": "Gift",
                 "color": "#a040a0"
             }
         ],
@@ -4087,11 +4087,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             },
             {
-                "type": "Dark",
+                "type": "Unlicht",
                 "color": "#707070"
             }
         ],
@@ -4102,11 +4102,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             },
             {
-                "type": "Dark",
+                "type": "Unlicht",
                 "color": "#707070"
             }
         ],
@@ -4117,7 +4117,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -4128,7 +4128,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -4139,11 +4139,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Fire",
+                "type": "Feuer",
                 "color": "#f08030"
             },
             {
-                "type": "Ground",
+                "type": "Boden",
                 "color": "#e0c068"
             }
         ],
@@ -4154,11 +4154,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Fire",
+                "type": "Feuer",
                 "color": "#f08030"
             },
             {
-                "type": "Ground",
+                "type": "Boden",
                 "color": "#e0c068"
             }
         ],
@@ -4169,7 +4169,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Fire",
+                "type": "Feuer",
                 "color": "#f08030"
             }
         ],
@@ -4213,7 +4213,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Ground",
+                "type": "Boden",
                 "color": "#e0c068"
             }
         ],
@@ -4224,11 +4224,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Ground",
+                "type": "Boden",
                 "color": "#e0c068"
             },
             {
-                "type": "Dragon",
+                "type": "Drache",
                 "color": "#7038f8"
             }
         ],
@@ -4239,11 +4239,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Ground",
+                "type": "Boden",
                 "color": "#e0c068"
             },
             {
-                "type": "Dragon",
+                "type": "Drache",
                 "color": "#7038f8"
             }
         ],
@@ -4254,7 +4254,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             }
         ],
@@ -4265,11 +4265,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             },
             {
-                "type": "Dark",
+                "type": "Unlicht",
                 "color": "#707070"
             }
         ],
@@ -4284,7 +4284,7 @@
                 "color": "#8a8a59"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -4295,11 +4295,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Dragon",
+                "type": "Drache",
                 "color": "#7038f8"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -4321,7 +4321,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Poison",
+                "type": "Gift",
                 "color": "#a040a0"
             }
         ],
@@ -4332,7 +4332,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Rock",
+                "type": "Gestein",
                 "color": "#b8a038"
             },
             {
@@ -4347,7 +4347,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Rock",
+                "type": "Gestein",
                 "color": "#b8a038"
             },
             {
@@ -4362,11 +4362,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             },
             {
-                "type": "Ground",
+                "type": "Boden",
                 "color": "#e0c068"
             }
         ],
@@ -4377,11 +4377,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             },
             {
-                "type": "Ground",
+                "type": "Boden",
                 "color": "#e0c068"
             }
         ],
@@ -4392,7 +4392,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -4403,11 +4403,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             },
             {
-                "type": "Dark",
+                "type": "Unlicht",
                 "color": "#707070"
             }
         ],
@@ -4418,7 +4418,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Ground",
+                "type": "Boden",
                 "color": "#e0c068"
             },
             {
@@ -4433,7 +4433,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Ground",
+                "type": "Boden",
                 "color": "#e0c068"
             },
             {
@@ -4448,11 +4448,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Rock",
+                "type": "Gestein",
                 "color": "#b8a038"
             },
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             }
         ],
@@ -4463,11 +4463,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Rock",
+                "type": "Gestein",
                 "color": "#b8a038"
             },
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             }
         ],
@@ -4478,11 +4478,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Rock",
+                "type": "Gestein",
                 "color": "#b8a038"
             },
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             }
         ],
@@ -4493,11 +4493,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Rock",
+                "type": "Gestein",
                 "color": "#b8a038"
             },
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             }
         ],
@@ -4508,7 +4508,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -4519,7 +4519,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -4549,10 +4549,10 @@
     },
     "353": {
         "name": "Shuppet",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
-                "type": "Ghost",
+                "type": "Geist",
                 "color": "#705898"
             }
         ],
@@ -4560,10 +4560,10 @@
     },
     "354": {
         "name": "Banette",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
-                "type": "Ghost",
+                "type": "Geist",
                 "color": "#705898"
             }
         ],
@@ -4571,10 +4571,10 @@
     },
     "355": {
         "name": "Zwirrlicht",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
-                "type": "Ghost",
+                "type": "Geist",
                 "color": "#705898"
             }
         ],
@@ -4582,10 +4582,10 @@
     },
     "356": {
         "name": "Zwirrklop",
-        "rarity": "Rare",
+        "rarity": "Selten",
         "types": [
             {
-                "type": "Ghost",
+                "type": "Geist",
                 "color": "#705898"
             }
         ],
@@ -4596,11 +4596,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -4622,7 +4622,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Dark",
+                "type": "Unlicht",
                 "color": "#707070"
             }
         ],
@@ -4644,7 +4644,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Ice",
+                "type": "Eis",
                 "color": "#98d8d8"
             }
         ],
@@ -4655,7 +4655,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Ice",
+                "type": "Eis",
                 "color": "#98d8d8"
             }
         ],
@@ -4666,11 +4666,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Ice",
+                "type": "Eis",
                 "color": "#98d8d8"
             },
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -4681,11 +4681,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Ice",
+                "type": "Eis",
                 "color": "#98d8d8"
             },
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -4696,11 +4696,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Ice",
+                "type": "Eis",
                 "color": "#98d8d8"
             },
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -4711,7 +4711,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -4722,7 +4722,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -4733,7 +4733,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -4744,11 +4744,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             },
             {
-                "type": "Rock",
+                "type": "Gestein",
                 "color": "#b8a038"
             }
         ],
@@ -4759,7 +4759,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -4770,7 +4770,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Dragon",
+                "type": "Drache",
                 "color": "#7038f8"
             }
         ],
@@ -4781,7 +4781,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Dragon",
+                "type": "Drache",
                 "color": "#7038f8"
             }
         ],
@@ -4792,11 +4792,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Dragon",
+                "type": "Drache",
                 "color": "#7038f8"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -4807,7 +4807,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Steel",
+                "type": "Stahl",
                 "color": "#b8b8d0"
             },
             {
@@ -4822,7 +4822,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Steel",
+                "type": "Stahl",
                 "color": "#b8b8d0"
             },
             {
@@ -4837,7 +4837,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Steel",
+                "type": "Stahl",
                 "color": "#b8b8d0"
             },
             {
@@ -4852,7 +4852,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Rock",
+                "type": "Gestein",
                 "color": "#b8a038"
             }
         ],
@@ -4863,7 +4863,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Ice",
+                "type": "Eis",
                 "color": "#98d8d8"
             }
         ],
@@ -4874,7 +4874,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Steel",
+                "type": "Stahl",
                 "color": "#b8b8d0"
             }
         ],
@@ -4885,7 +4885,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Dragon",
+                "type": "Drache",
                 "color": "#7038f8"
             },
             {
@@ -4900,7 +4900,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Dragon",
+                "type": "Drache",
                 "color": "#7038f8"
             },
             {
@@ -4915,7 +4915,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -4926,7 +4926,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Ground",
+                "type": "Boden",
                 "color": "#e0c068"
             }
         ],
@@ -4937,11 +4937,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Dragon",
+                "type": "Drache",
                 "color": "#7038f8"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -4952,7 +4952,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Steel",
+                "type": "Stahl",
                 "color": "#b8b8d0"
             },
             {
@@ -4978,7 +4978,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             }
         ],
@@ -4989,7 +4989,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             }
         ],
@@ -5000,11 +5000,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             },
             {
-                "type": "Ground",
+                "type": "Boden",
                 "color": "#e0c068"
             }
         ],
@@ -5015,7 +5015,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Fire",
+                "type": "Feuer",
                 "color": "#f08030"
             }
         ],
@@ -5026,11 +5026,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Fire",
+                "type": "Feuer",
                 "color": "#f08030"
             },
             {
-                "type": "Fighting",
+                "type": "Kampf",
                 "color": "#c03028"
             }
         ],
@@ -5041,11 +5041,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Fire",
+                "type": "Feuer",
                 "color": "#f08030"
             },
             {
-                "type": "Fighting",
+                "type": "Kampf",
                 "color": "#c03028"
             }
         ],
@@ -5056,7 +5056,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -5067,7 +5067,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -5078,11 +5078,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             },
             {
-                "type": "Steel",
+                "type": "Stahl",
                 "color": "#b8b8d0"
             }
         ],
@@ -5097,7 +5097,7 @@
                 "color": "#8a8a59"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -5112,7 +5112,7 @@
                 "color": "#8a8a59"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -5127,7 +5127,7 @@
                 "color": "#8a8a59"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -5153,7 +5153,7 @@
                 "color": "#8a8a59"
             },
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -5164,7 +5164,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             }
         ],
@@ -5175,7 +5175,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             }
         ],
@@ -5186,7 +5186,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Electric",
+                "type": "Elektro",
                 "color": "#f8d030"
             }
         ],
@@ -5197,7 +5197,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Electric",
+                "type": "Elektro",
                 "color": "#f8d030"
             }
         ],
@@ -5208,7 +5208,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Electric",
+                "type": "Elektro",
                 "color": "#f8d030"
             }
         ],
@@ -5219,11 +5219,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             },
             {
-                "type": "Poison",
+                "type": "Gift",
                 "color": "#a040a0"
             }
         ],
@@ -5234,11 +5234,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             },
             {
-                "type": "Poison",
+                "type": "Gift",
                 "color": "#a040a0"
             }
         ],
@@ -5249,7 +5249,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Rock",
+                "type": "Gestein",
                 "color": "#b8a038"
             }
         ],
@@ -5260,7 +5260,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Rock",
+                "type": "Gestein",
                 "color": "#b8a038"
             }
         ],
@@ -5271,11 +5271,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Rock",
+                "type": "Gestein",
                 "color": "#b8a038"
             },
             {
-                "type": "Steel",
+                "type": "Stahl",
                 "color": "#b8b8d0"
             }
         ],
@@ -5286,11 +5286,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Rock",
+                "type": "Gestein",
                 "color": "#b8a038"
             },
             {
-                "type": "Steel",
+                "type": "Stahl",
                 "color": "#b8b8d0"
             }
         ],
@@ -5301,7 +5301,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             }
         ],
@@ -5312,11 +5312,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             },
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             }
         ],
@@ -5327,11 +5327,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -5342,11 +5342,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -5357,11 +5357,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -5372,7 +5372,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Electric",
+                "type": "Elektro",
                 "color": "#f8d030"
             }
         ],
@@ -5383,7 +5383,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -5394,7 +5394,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -5405,7 +5405,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             }
         ],
@@ -5416,7 +5416,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             }
         ],
@@ -5427,7 +5427,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -5438,11 +5438,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             },
             {
-                "type": "Ground",
+                "type": "Boden",
                 "color": "#e0c068"
             }
         ],
@@ -5464,11 +5464,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Ghost",
+                "type": "Geist",
                 "color": "#705898"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -5479,11 +5479,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Ghost",
+                "type": "Geist",
                 "color": "#705898"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -5516,7 +5516,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Ghost",
+                "type": "Geist",
                 "color": "#705898"
             }
         ],
@@ -5527,11 +5527,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Dark",
+                "type": "Unlicht",
                 "color": "#707070"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -5575,11 +5575,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Poison",
+                "type": "Gift",
                 "color": "#a040a0"
             },
             {
-                "type": "Dark",
+                "type": "Unlicht",
                 "color": "#707070"
             }
         ],
@@ -5590,11 +5590,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Poison",
+                "type": "Gift",
                 "color": "#a040a0"
             },
             {
-                "type": "Dark",
+                "type": "Unlicht",
                 "color": "#707070"
             }
         ],
@@ -5605,7 +5605,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Steel",
+                "type": "Stahl",
                 "color": "#b8b8d0"
             },
             {
@@ -5620,7 +5620,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Steel",
+                "type": "Stahl",
                 "color": "#b8b8d0"
             },
             {
@@ -5635,7 +5635,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Rock",
+                "type": "Gestein",
                 "color": "#b8a038"
             }
         ],
@@ -5650,7 +5650,7 @@
                 "color": "#f85888"
             },
             {
-                "type": "Fairy",
+                "type": "Fee",
                 "color": "#e898e8"
             }
         ],
@@ -5676,7 +5676,7 @@
                 "color": "#8a8a59"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -5687,11 +5687,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Ghost",
+                "type": "Geist",
                 "color": "#705898"
             },
             {
-                "type": "Dark",
+                "type": "Unlicht",
                 "color": "#707070"
             }
         ],
@@ -5702,11 +5702,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Dragon",
+                "type": "Drache",
                 "color": "#7038f8"
             },
             {
-                "type": "Ground",
+                "type": "Boden",
                 "color": "#e0c068"
             }
         ],
@@ -5717,11 +5717,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Dragon",
+                "type": "Drache",
                 "color": "#7038f8"
             },
             {
-                "type": "Ground",
+                "type": "Boden",
                 "color": "#e0c068"
             }
         ],
@@ -5732,11 +5732,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Dragon",
+                "type": "Drache",
                 "color": "#7038f8"
             },
             {
-                "type": "Ground",
+                "type": "Boden",
                 "color": "#e0c068"
             }
         ],
@@ -5758,7 +5758,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Fighting",
+                "type": "Kampf",
                 "color": "#c03028"
             }
         ],
@@ -5769,11 +5769,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Fighting",
+                "type": "Kampf",
                 "color": "#c03028"
             },
             {
-                "type": "Steel",
+                "type": "Stahl",
                 "color": "#b8b8d0"
             }
         ],
@@ -5784,7 +5784,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Ground",
+                "type": "Boden",
                 "color": "#e0c068"
             }
         ],
@@ -5795,7 +5795,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Ground",
+                "type": "Boden",
                 "color": "#e0c068"
             }
         ],
@@ -5806,11 +5806,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Poison",
+                "type": "Gift",
                 "color": "#a040a0"
             },
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             }
         ],
@@ -5821,11 +5821,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Poison",
+                "type": "Gift",
                 "color": "#a040a0"
             },
             {
-                "type": "Dark",
+                "type": "Unlicht",
                 "color": "#707070"
             }
         ],
@@ -5836,11 +5836,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Poison",
+                "type": "Gift",
                 "color": "#a040a0"
             },
             {
-                "type": "Fighting",
+                "type": "Kampf",
                 "color": "#c03028"
             }
         ],
@@ -5851,11 +5851,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Poison",
+                "type": "Gift",
                 "color": "#a040a0"
             },
             {
-                "type": "Fighting",
+                "type": "Kampf",
                 "color": "#c03028"
             }
         ],
@@ -5866,7 +5866,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             }
         ],
@@ -5877,7 +5877,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -5888,7 +5888,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -5899,11 +5899,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -5914,11 +5914,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             },
             {
-                "type": "Ice",
+                "type": "Eis",
                 "color": "#98d8d8"
             }
         ],
@@ -5929,11 +5929,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             },
             {
-                "type": "Ice",
+                "type": "Eis",
                 "color": "#98d8d8"
             }
         ],
@@ -5944,11 +5944,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Dark",
+                "type": "Unlicht",
                 "color": "#707070"
             },
             {
-                "type": "Ice",
+                "type": "Eis",
                 "color": "#98d8d8"
             }
         ],
@@ -5959,11 +5959,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Electric",
+                "type": "Elektro",
                 "color": "#f8d030"
             },
             {
-                "type": "Steel",
+                "type": "Stahl",
                 "color": "#b8b8d0"
             }
         ],
@@ -5985,11 +5985,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Ground",
+                "type": "Boden",
                 "color": "#e0c068"
             },
             {
-                "type": "Rock",
+                "type": "Gestein",
                 "color": "#b8a038"
             }
         ],
@@ -6000,7 +6000,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             }
         ],
@@ -6011,7 +6011,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Electric",
+                "type": "Elektro",
                 "color": "#f8d030"
             }
         ],
@@ -6022,7 +6022,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Fire",
+                "type": "Feuer",
                 "color": "#f08030"
             }
         ],
@@ -6033,11 +6033,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Fairy",
+                "type": "Fee",
                 "color": "#e898e8"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -6048,11 +6048,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -6063,7 +6063,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             }
         ],
@@ -6074,7 +6074,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Ice",
+                "type": "Eis",
                 "color": "#98d8d8"
             }
         ],
@@ -6085,11 +6085,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Ground",
+                "type": "Boden",
                 "color": "#e0c068"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -6100,11 +6100,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Ice",
+                "type": "Eis",
                 "color": "#98d8d8"
             },
             {
-                "type": "Ground",
+                "type": "Boden",
                 "color": "#e0c068"
             }
         ],
@@ -6130,7 +6130,7 @@
                 "color": "#f85888"
             },
             {
-                "type": "Fighting",
+                "type": "Kampf",
                 "color": "#c03028"
             }
         ],
@@ -6141,11 +6141,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Rock",
+                "type": "Gestein",
                 "color": "#b8a038"
             },
             {
-                "type": "Steel",
+                "type": "Stahl",
                 "color": "#b8b8d0"
             }
         ],
@@ -6156,7 +6156,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Ghost",
+                "type": "Geist",
                 "color": "#705898"
             }
         ],
@@ -6167,11 +6167,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Ice",
+                "type": "Eis",
                 "color": "#98d8d8"
             },
             {
-                "type": "Ghost",
+                "type": "Geist",
                 "color": "#705898"
             }
         ],
@@ -6182,11 +6182,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Electric",
+                "type": "Elektro",
                 "color": "#f8d030"
             },
             {
-                "type": "Ghost",
+                "type": "Geist",
                 "color": "#705898"
             }
         ],
@@ -6230,11 +6230,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Steel",
+                "type": "Stahl",
                 "color": "#b8b8d0"
             },
             {
-                "type": "Dragon",
+                "type": "Drache",
                 "color": "#7038f8"
             }
         ],
@@ -6245,11 +6245,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             },
             {
-                "type": "Dragon",
+                "type": "Drache",
                 "color": "#7038f8"
             }
         ],
@@ -6260,11 +6260,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Fire",
+                "type": "Feuer",
                 "color": "#f08030"
             },
             {
-                "type": "Steel",
+                "type": "Stahl",
                 "color": "#b8b8d0"
             }
         ],
@@ -6286,11 +6286,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Ghost",
+                "type": "Geist",
                 "color": "#705898"
             },
             {
-                "type": "Dragon",
+                "type": "Drache",
                 "color": "#7038f8"
             }
         ],
@@ -6312,7 +6312,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -6323,7 +6323,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -6334,7 +6334,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Dark",
+                "type": "Unlicht",
                 "color": "#707070"
             }
         ],
@@ -6345,7 +6345,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             }
         ],
@@ -6371,7 +6371,7 @@
                 "color": "#f85888"
             },
             {
-                "type": "Fire",
+                "type": "Feuer",
                 "color": "#f08030"
             }
         ],
@@ -6382,7 +6382,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             }
         ],
@@ -6393,7 +6393,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             }
         ],
@@ -6404,7 +6404,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             }
         ],
@@ -6415,7 +6415,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Fire",
+                "type": "Feuer",
                 "color": "#f08030"
             }
         ],
@@ -6426,11 +6426,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Fire",
+                "type": "Feuer",
                 "color": "#f08030"
             },
             {
-                "type": "Fighting",
+                "type": "Kampf",
                 "color": "#c03028"
             }
         ],
@@ -6441,11 +6441,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Fire",
+                "type": "Feuer",
                 "color": "#f08030"
             },
             {
-                "type": "Fighting",
+                "type": "Kampf",
                 "color": "#c03028"
             }
         ],
@@ -6456,7 +6456,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -6467,7 +6467,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -6478,7 +6478,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -6544,7 +6544,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Dark",
+                "type": "Unlicht",
                 "color": "#707070"
             }
         ],
@@ -6555,7 +6555,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Dark",
+                "type": "Unlicht",
                 "color": "#707070"
             }
         ],
@@ -6566,7 +6566,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             }
         ],
@@ -6577,7 +6577,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             }
         ],
@@ -6588,7 +6588,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Fire",
+                "type": "Feuer",
                 "color": "#f08030"
             }
         ],
@@ -6599,7 +6599,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Fire",
+                "type": "Feuer",
                 "color": "#f08030"
             }
         ],
@@ -6610,7 +6610,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -6621,7 +6621,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -6658,7 +6658,7 @@
                 "color": "#8a8a59"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -6673,7 +6673,7 @@
                 "color": "#8a8a59"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -6688,7 +6688,7 @@
                 "color": "#8a8a59"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -6699,7 +6699,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Electric",
+                "type": "Elektro",
                 "color": "#f8d030"
             }
         ],
@@ -6710,7 +6710,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Electric",
+                "type": "Elektro",
                 "color": "#f8d030"
             }
         ],
@@ -6721,7 +6721,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Rock",
+                "type": "Gestein",
                 "color": "#b8a038"
             }
         ],
@@ -6732,7 +6732,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Rock",
+                "type": "Gestein",
                 "color": "#b8a038"
             }
         ],
@@ -6743,7 +6743,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Rock",
+                "type": "Gestein",
                 "color": "#b8a038"
             }
         ],
@@ -6758,7 +6758,7 @@
                 "color": "#f85888"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -6773,7 +6773,7 @@
                 "color": "#f85888"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -6784,7 +6784,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Ground",
+                "type": "Boden",
                 "color": "#e0c068"
             }
         ],
@@ -6795,11 +6795,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Ground",
+                "type": "Boden",
                 "color": "#e0c068"
             },
             {
-                "type": "Steel",
+                "type": "Stahl",
                 "color": "#b8b8d0"
             }
         ],
@@ -6821,7 +6821,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Fighting",
+                "type": "Kampf",
                 "color": "#c03028"
             }
         ],
@@ -6832,7 +6832,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Fighting",
+                "type": "Kampf",
                 "color": "#c03028"
             }
         ],
@@ -6843,7 +6843,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Fighting",
+                "type": "Kampf",
                 "color": "#c03028"
             }
         ],
@@ -6854,7 +6854,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -6865,11 +6865,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             },
             {
-                "type": "Ground",
+                "type": "Boden",
                 "color": "#e0c068"
             }
         ],
@@ -6880,11 +6880,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             },
             {
-                "type": "Ground",
+                "type": "Boden",
                 "color": "#e0c068"
             }
         ],
@@ -6895,7 +6895,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Fighting",
+                "type": "Kampf",
                 "color": "#c03028"
             }
         ],
@@ -6906,7 +6906,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Fighting",
+                "type": "Kampf",
                 "color": "#c03028"
             }
         ],
@@ -6917,11 +6917,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             },
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             }
         ],
@@ -6932,11 +6932,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             },
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             }
         ],
@@ -6947,11 +6947,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             },
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             }
         ],
@@ -6962,11 +6962,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             },
             {
-                "type": "Poison",
+                "type": "Gift",
                 "color": "#a040a0"
             }
         ],
@@ -6977,11 +6977,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             },
             {
-                "type": "Poison",
+                "type": "Gift",
                 "color": "#a040a0"
             }
         ],
@@ -6992,11 +6992,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             },
             {
-                "type": "Poison",
+                "type": "Gift",
                 "color": "#a040a0"
             }
         ],
@@ -7007,11 +7007,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             },
             {
-                "type": "Fairy",
+                "type": "Fee",
                 "color": "#e898e8"
             }
         ],
@@ -7022,11 +7022,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             },
             {
-                "type": "Fairy",
+                "type": "Fee",
                 "color": "#e898e8"
             }
         ],
@@ -7037,7 +7037,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             }
         ],
@@ -7048,7 +7048,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             }
         ],
@@ -7059,7 +7059,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -7070,11 +7070,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Ground",
+                "type": "Boden",
                 "color": "#e0c068"
             },
             {
-                "type": "Dark",
+                "type": "Unlicht",
                 "color": "#707070"
             }
         ],
@@ -7085,11 +7085,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Ground",
+                "type": "Boden",
                 "color": "#e0c068"
             },
             {
-                "type": "Dark",
+                "type": "Unlicht",
                 "color": "#707070"
             }
         ],
@@ -7100,11 +7100,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Ground",
+                "type": "Boden",
                 "color": "#e0c068"
             },
             {
-                "type": "Dark",
+                "type": "Unlicht",
                 "color": "#707070"
             }
         ],
@@ -7115,7 +7115,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Fire",
+                "type": "Feuer",
                 "color": "#f08030"
             }
         ],
@@ -7126,7 +7126,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Fire",
+                "type": "Feuer",
                 "color": "#f08030"
             }
         ],
@@ -7137,7 +7137,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             }
         ],
@@ -7148,11 +7148,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             },
             {
-                "type": "Rock",
+                "type": "Gestein",
                 "color": "#b8a038"
             }
         ],
@@ -7163,11 +7163,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             },
             {
-                "type": "Rock",
+                "type": "Gestein",
                 "color": "#b8a038"
             }
         ],
@@ -7178,11 +7178,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Dark",
+                "type": "Unlicht",
                 "color": "#707070"
             },
             {
-                "type": "Fighting",
+                "type": "Kampf",
                 "color": "#c03028"
             }
         ],
@@ -7193,11 +7193,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Dark",
+                "type": "Unlicht",
                 "color": "#707070"
             },
             {
-                "type": "Fighting",
+                "type": "Kampf",
                 "color": "#c03028"
             }
         ],
@@ -7212,7 +7212,7 @@
                 "color": "#f85888"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -7223,7 +7223,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Ghost",
+                "type": "Geist",
                 "color": "#705898"
             }
         ],
@@ -7234,7 +7234,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Ghost",
+                "type": "Geist",
                 "color": "#705898"
             }
         ],
@@ -7245,11 +7245,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             },
             {
-                "type": "Rock",
+                "type": "Gestein",
                 "color": "#b8a038"
             }
         ],
@@ -7260,11 +7260,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             },
             {
-                "type": "Rock",
+                "type": "Gestein",
                 "color": "#b8a038"
             }
         ],
@@ -7275,11 +7275,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Rock",
+                "type": "Gestein",
                 "color": "#b8a038"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -7290,11 +7290,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Rock",
+                "type": "Gestein",
                 "color": "#b8a038"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -7305,7 +7305,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Poison",
+                "type": "Gift",
                 "color": "#a040a0"
             }
         ],
@@ -7316,7 +7316,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Poison",
+                "type": "Gift",
                 "color": "#a040a0"
             }
         ],
@@ -7327,7 +7327,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Dark",
+                "type": "Unlicht",
                 "color": "#707070"
             }
         ],
@@ -7338,7 +7338,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Dark",
+                "type": "Unlicht",
                 "color": "#707070"
             }
         ],
@@ -7437,11 +7437,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -7452,11 +7452,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -7467,7 +7467,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Ice",
+                "type": "Eis",
                 "color": "#98d8d8"
             }
         ],
@@ -7478,7 +7478,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Ice",
+                "type": "Eis",
                 "color": "#98d8d8"
             }
         ],
@@ -7489,7 +7489,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Ice",
+                "type": "Eis",
                 "color": "#98d8d8"
             }
         ],
@@ -7504,7 +7504,7 @@
                 "color": "#8a8a59"
             },
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             }
         ],
@@ -7519,7 +7519,7 @@
                 "color": "#8a8a59"
             },
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             }
         ],
@@ -7530,11 +7530,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Electric",
+                "type": "Elektro",
                 "color": "#f8d030"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -7545,7 +7545,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             }
         ],
@@ -7556,11 +7556,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             },
             {
-                "type": "Steel",
+                "type": "Stahl",
                 "color": "#b8b8d0"
             }
         ],
@@ -7571,11 +7571,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             },
             {
-                "type": "Poison",
+                "type": "Gift",
                 "color": "#a040a0"
             }
         ],
@@ -7586,11 +7586,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             },
             {
-                "type": "Poison",
+                "type": "Gift",
                 "color": "#a040a0"
             }
         ],
@@ -7601,11 +7601,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             },
             {
-                "type": "Ghost",
+                "type": "Geist",
                 "color": "#705898"
             }
         ],
@@ -7616,11 +7616,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             },
             {
-                "type": "Ghost",
+                "type": "Geist",
                 "color": "#705898"
             }
         ],
@@ -7631,7 +7631,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -7642,11 +7642,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             },
             {
-                "type": "Electric",
+                "type": "Elektro",
                 "color": "#f8d030"
             }
         ],
@@ -7657,11 +7657,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             },
             {
-                "type": "Electric",
+                "type": "Elektro",
                 "color": "#f8d030"
             }
         ],
@@ -7672,11 +7672,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             },
             {
-                "type": "Steel",
+                "type": "Stahl",
                 "color": "#b8b8d0"
             }
         ],
@@ -7687,11 +7687,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             },
             {
-                "type": "Steel",
+                "type": "Stahl",
                 "color": "#b8b8d0"
             }
         ],
@@ -7702,7 +7702,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Steel",
+                "type": "Stahl",
                 "color": "#b8b8d0"
             }
         ],
@@ -7713,7 +7713,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Steel",
+                "type": "Stahl",
                 "color": "#b8b8d0"
             }
         ],
@@ -7724,7 +7724,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Steel",
+                "type": "Stahl",
                 "color": "#b8b8d0"
             }
         ],
@@ -7735,7 +7735,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Electric",
+                "type": "Elektro",
                 "color": "#f8d030"
             }
         ],
@@ -7746,7 +7746,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Electric",
+                "type": "Elektro",
                 "color": "#f8d030"
             }
         ],
@@ -7757,7 +7757,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Electric",
+                "type": "Elektro",
                 "color": "#f8d030"
             }
         ],
@@ -7790,11 +7790,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Ghost",
+                "type": "Geist",
                 "color": "#705898"
             },
             {
-                "type": "Fire",
+                "type": "Feuer",
                 "color": "#f08030"
             }
         ],
@@ -7805,11 +7805,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Ghost",
+                "type": "Geist",
                 "color": "#705898"
             },
             {
-                "type": "Fire",
+                "type": "Feuer",
                 "color": "#f08030"
             }
         ],
@@ -7820,11 +7820,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Ghost",
+                "type": "Geist",
                 "color": "#705898"
             },
             {
-                "type": "Fire",
+                "type": "Feuer",
                 "color": "#f08030"
             }
         ],
@@ -7835,7 +7835,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Dragon",
+                "type": "Drache",
                 "color": "#7038f8"
             }
         ],
@@ -7846,7 +7846,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Dragon",
+                "type": "Drache",
                 "color": "#7038f8"
             }
         ],
@@ -7857,7 +7857,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Dragon",
+                "type": "Drache",
                 "color": "#7038f8"
             }
         ],
@@ -7868,7 +7868,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Ice",
+                "type": "Eis",
                 "color": "#98d8d8"
             }
         ],
@@ -7879,7 +7879,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Ice",
+                "type": "Eis",
                 "color": "#98d8d8"
             }
         ],
@@ -7890,7 +7890,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Ice",
+                "type": "Eis",
                 "color": "#98d8d8"
             }
         ],
@@ -7901,7 +7901,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             }
         ],
@@ -7912,7 +7912,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             }
         ],
@@ -7923,11 +7923,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Ground",
+                "type": "Boden",
                 "color": "#e0c068"
             },
             {
-                "type": "Electric",
+                "type": "Elektro",
                 "color": "#f8d030"
             }
         ],
@@ -7938,7 +7938,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Fighting",
+                "type": "Kampf",
                 "color": "#c03028"
             }
         ],
@@ -7949,7 +7949,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Fighting",
+                "type": "Kampf",
                 "color": "#c03028"
             }
         ],
@@ -7960,7 +7960,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Dragon",
+                "type": "Drache",
                 "color": "#7038f8"
             }
         ],
@@ -7971,11 +7971,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Ground",
+                "type": "Boden",
                 "color": "#e0c068"
             },
             {
-                "type": "Ghost",
+                "type": "Geist",
                 "color": "#705898"
             }
         ],
@@ -7986,11 +7986,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Ground",
+                "type": "Boden",
                 "color": "#e0c068"
             },
             {
-                "type": "Ghost",
+                "type": "Geist",
                 "color": "#705898"
             }
         ],
@@ -8001,11 +8001,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Dark",
+                "type": "Unlicht",
                 "color": "#707070"
             },
             {
-                "type": "Steel",
+                "type": "Stahl",
                 "color": "#b8b8d0"
             }
         ],
@@ -8016,11 +8016,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Dark",
+                "type": "Unlicht",
                 "color": "#707070"
             },
             {
-                "type": "Steel",
+                "type": "Stahl",
                 "color": "#b8b8d0"
             }
         ],
@@ -8046,7 +8046,7 @@
                 "color": "#8a8a59"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -8061,7 +8061,7 @@
                 "color": "#8a8a59"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -8072,11 +8072,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Dark",
+                "type": "Unlicht",
                 "color": "#707070"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -8087,11 +8087,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Dark",
+                "type": "Unlicht",
                 "color": "#707070"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -8102,7 +8102,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Fire",
+                "type": "Feuer",
                 "color": "#f08030"
             }
         ],
@@ -8113,11 +8113,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             },
             {
-                "type": "Steel",
+                "type": "Stahl",
                 "color": "#b8b8d0"
             }
         ],
@@ -8128,11 +8128,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Dark",
+                "type": "Unlicht",
                 "color": "#707070"
             },
             {
-                "type": "Dragon",
+                "type": "Drache",
                 "color": "#7038f8"
             }
         ],
@@ -8143,11 +8143,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Dark",
+                "type": "Unlicht",
                 "color": "#707070"
             },
             {
-                "type": "Dragon",
+                "type": "Drache",
                 "color": "#7038f8"
             }
         ],
@@ -8158,11 +8158,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Dark",
+                "type": "Unlicht",
                 "color": "#707070"
             },
             {
-                "type": "Dragon",
+                "type": "Drache",
                 "color": "#7038f8"
             }
         ],
@@ -8173,11 +8173,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             },
             {
-                "type": "Fire",
+                "type": "Feuer",
                 "color": "#f08030"
             }
         ],
@@ -8188,11 +8188,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             },
             {
-                "type": "Fire",
+                "type": "Feuer",
                 "color": "#f08030"
             }
         ],
@@ -8203,11 +8203,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Steel",
+                "type": "Stahl",
                 "color": "#b8b8d0"
             },
             {
-                "type": "Fighting",
+                "type": "Kampf",
                 "color": "#c03028"
             }
         ],
@@ -8218,11 +8218,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Rock",
+                "type": "Gestein",
                 "color": "#b8a038"
             },
             {
-                "type": "Fighting",
+                "type": "Kampf",
                 "color": "#c03028"
             }
         ],
@@ -8233,11 +8233,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             },
             {
-                "type": "Fighting",
+                "type": "Kampf",
                 "color": "#c03028"
             }
         ],
@@ -8248,7 +8248,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -8259,11 +8259,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Electric",
+                "type": "Elektro",
                 "color": "#f8d030"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -8274,11 +8274,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Dragon",
+                "type": "Drache",
                 "color": "#7038f8"
             },
             {
-                "type": "Fire",
+                "type": "Feuer",
                 "color": "#f08030"
             }
         ],
@@ -8289,11 +8289,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Dragon",
+                "type": "Drache",
                 "color": "#7038f8"
             },
             {
-                "type": "Electric",
+                "type": "Elektro",
                 "color": "#f8d030"
             }
         ],
@@ -8304,11 +8304,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Ground",
+                "type": "Boden",
                 "color": "#e0c068"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -8319,11 +8319,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Dragon",
+                "type": "Drache",
                 "color": "#7038f8"
             },
             {
-                "type": "Ice",
+                "type": "Eis",
                 "color": "#98d8d8"
             }
         ],
@@ -8334,11 +8334,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             },
             {
-                "type": "Fighting",
+                "type": "Kampf",
                 "color": "#c03028"
             }
         ],
@@ -8364,11 +8364,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             },
             {
-                "type": "Steel",
+                "type": "Stahl",
                 "color": "#b8b8d0"
             }
         ],
@@ -8379,7 +8379,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             }
         ],
@@ -8390,7 +8390,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             }
         ],
@@ -8401,11 +8401,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             },
             {
-                "type": "Fighting",
+                "type": "Kampf",
                 "color": "#c03028"
             }
         ],
@@ -8416,7 +8416,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Fire",
+                "type": "Feuer",
                 "color": "#f08030"
             }
         ],
@@ -8427,7 +8427,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Fire",
+                "type": "Feuer",
                 "color": "#f08030"
             }
         ],
@@ -8438,7 +8438,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Fire",
+                "type": "Feuer",
                 "color": "#f08030"
             },
             {
@@ -8453,7 +8453,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -8464,7 +8464,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -8475,11 +8475,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             },
             {
-                "type": "Dark",
+                "type": "Unlicht",
                 "color": "#707070"
             }
         ],
@@ -8505,7 +8505,7 @@
                 "color": "#8a8a59"
             },
             {
-                "type": "Ground",
+                "type": "Boden",
                 "color": "#e0c068"
             }
         ],
@@ -8520,7 +8520,7 @@
                 "color": "#8a8a59"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -8531,11 +8531,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Fire",
+                "type": "Feuer",
                 "color": "#f08030"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -8546,11 +8546,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Fire",
+                "type": "Feuer",
                 "color": "#f08030"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -8561,7 +8561,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             }
         ],
@@ -8572,7 +8572,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             }
         ],
@@ -8583,11 +8583,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Bug",
+                "type": "Käfer",
                 "color": "#a8b820"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -8598,7 +8598,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Fire",
+                "type": "Feuer",
                 "color": "#f08030"
             },
             {
@@ -8613,7 +8613,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Fire",
+                "type": "Feuer",
                 "color": "#f08030"
             },
             {
@@ -8628,7 +8628,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Fairy",
+                "type": "Fee",
                 "color": "#e898e8"
             }
         ],
@@ -8639,7 +8639,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Fairy",
+                "type": "Fee",
                 "color": "#e898e8"
             }
         ],
@@ -8650,7 +8650,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Fairy",
+                "type": "Fee",
                 "color": "#e898e8"
             }
         ],
@@ -8661,7 +8661,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             }
         ],
@@ -8672,7 +8672,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             }
         ],
@@ -8683,7 +8683,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Fighting",
+                "type": "Kampf",
                 "color": "#c03028"
             }
         ],
@@ -8694,11 +8694,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Fighting",
+                "type": "Kampf",
                 "color": "#c03028"
             },
             {
-                "type": "Dark",
+                "type": "Unlicht",
                 "color": "#707070"
             }
         ],
@@ -8742,11 +8742,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Steel",
+                "type": "Stahl",
                 "color": "#b8b8d0"
             },
             {
-                "type": "Ghost",
+                "type": "Geist",
                 "color": "#705898"
             }
         ],
@@ -8757,11 +8757,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Steel",
+                "type": "Stahl",
                 "color": "#b8b8d0"
             },
             {
-                "type": "Ghost",
+                "type": "Geist",
                 "color": "#705898"
             }
         ],
@@ -8772,11 +8772,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Steel",
+                "type": "Stahl",
                 "color": "#b8b8d0"
             },
             {
-                "type": "Ghost",
+                "type": "Geist",
                 "color": "#705898"
             }
         ],
@@ -8787,7 +8787,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Fairy",
+                "type": "Fee",
                 "color": "#e898e8"
             }
         ],
@@ -8798,7 +8798,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Fairy",
+                "type": "Fee",
                 "color": "#e898e8"
             }
         ],
@@ -8809,7 +8809,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Fairy",
+                "type": "Fee",
                 "color": "#e898e8"
             }
         ],
@@ -8820,7 +8820,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Fairy",
+                "type": "Fee",
                 "color": "#e898e8"
             }
         ],
@@ -8831,7 +8831,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Dark",
+                "type": "Unlicht",
                 "color": "#707070"
             },
             {
@@ -8846,7 +8846,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Dark",
+                "type": "Unlicht",
                 "color": "#707070"
             },
             {
@@ -8861,11 +8861,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Rock",
+                "type": "Gestein",
                 "color": "#b8a038"
             },
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -8876,11 +8876,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Rock",
+                "type": "Gestein",
                 "color": "#b8a038"
             },
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -8891,11 +8891,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Poison",
+                "type": "Gift",
                 "color": "#a040a0"
             },
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -8906,11 +8906,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Poison",
+                "type": "Gift",
                 "color": "#a040a0"
             },
             {
-                "type": "Dragon",
+                "type": "Drache",
                 "color": "#7038f8"
             }
         ],
@@ -8921,7 +8921,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -8932,7 +8932,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
@@ -8943,7 +8943,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Electric",
+                "type": "Elektro",
                 "color": "#f8d030"
             },
             {
@@ -8958,7 +8958,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Electric",
+                "type": "Elektro",
                 "color": "#f8d030"
             },
             {
@@ -8973,11 +8973,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Rock",
+                "type": "Gestein",
                 "color": "#b8a038"
             },
             {
-                "type": "Dragon",
+                "type": "Drache",
                 "color": "#7038f8"
             }
         ],
@@ -8988,11 +8988,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Rock",
+                "type": "Gestein",
                 "color": "#b8a038"
             },
             {
-                "type": "Dragon",
+                "type": "Drache",
                 "color": "#7038f8"
             }
         ],
@@ -9003,11 +9003,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Rock",
+                "type": "Gestein",
                 "color": "#b8a038"
             },
             {
-                "type": "Ice",
+                "type": "Eis",
                 "color": "#98d8d8"
             }
         ],
@@ -9018,11 +9018,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Rock",
+                "type": "Gestein",
                 "color": "#b8a038"
             },
             {
-                "type": "Ice",
+                "type": "Eis",
                 "color": "#98d8d8"
             }
         ],
@@ -9033,7 +9033,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Fairy",
+                "type": "Fee",
                 "color": "#e898e8"
             }
         ],
@@ -9044,11 +9044,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Fighting",
+                "type": "Kampf",
                 "color": "#c03028"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -9059,11 +9059,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Electric",
+                "type": "Elektro",
                 "color": "#f8d030"
             },
             {
-                "type": "Fairy",
+                "type": "Fee",
                 "color": "#e898e8"
             }
         ],
@@ -9074,11 +9074,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Rock",
+                "type": "Gestein",
                 "color": "#b8a038"
             },
             {
-                "type": "Fairy",
+                "type": "Fee",
                 "color": "#e898e8"
             }
         ],
@@ -9089,7 +9089,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Dragon",
+                "type": "Drache",
                 "color": "#7038f8"
             }
         ],
@@ -9100,7 +9100,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Dragon",
+                "type": "Drache",
                 "color": "#7038f8"
             }
         ],
@@ -9111,7 +9111,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Dragon",
+                "type": "Drache",
                 "color": "#7038f8"
             }
         ],
@@ -9122,11 +9122,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Steel",
+                "type": "Stahl",
                 "color": "#b8b8d0"
             },
             {
-                "type": "Fairy",
+                "type": "Fee",
                 "color": "#e898e8"
             }
         ],
@@ -9137,11 +9137,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Ghost",
+                "type": "Geist",
                 "color": "#705898"
             },
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             }
         ],
@@ -9152,11 +9152,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Ghost",
+                "type": "Geist",
                 "color": "#705898"
             },
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             }
         ],
@@ -9167,11 +9167,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Ghost",
+                "type": "Geist",
                 "color": "#705898"
             },
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             }
         ],
@@ -9182,11 +9182,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Ghost",
+                "type": "Geist",
                 "color": "#705898"
             },
             {
-                "type": "Grass",
+                "type": "Pflanze",
                 "color": "#78c850"
             }
         ],
@@ -9197,7 +9197,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Ice",
+                "type": "Eis",
                 "color": "#98d8d8"
             }
         ],
@@ -9208,7 +9208,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Ice",
+                "type": "Eis",
                 "color": "#98d8d8"
             }
         ],
@@ -9219,11 +9219,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             },
             {
-                "type": "Dragon",
+                "type": "Drache",
                 "color": "#7038f8"
             }
         ],
@@ -9234,11 +9234,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             },
             {
-                "type": "Dragon",
+                "type": "Drache",
                 "color": "#7038f8"
             }
         ],
@@ -9249,7 +9249,7 @@
         "rarity": "",
         "types": [
             {
-                "type": "Fairy",
+                "type": "Fee",
                 "color": "#e898e8"
             }
         ],
@@ -9260,11 +9260,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Dark",
+                "type": "Unlicht",
                 "color": "#707070"
             },
             {
-                "type": "Flying",
+                "type": "Flug",
                 "color": "#a890f0"
             }
         ],
@@ -9275,11 +9275,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Dragon",
+                "type": "Drache",
                 "color": "#7038f8"
             },
             {
-                "type": "Ground",
+                "type": "Boden",
                 "color": "#e0c068"
             }
         ],
@@ -9290,11 +9290,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Rock",
+                "type": "Gestein",
                 "color": "#b8a038"
             },
             {
-                "type": "Fairy",
+                "type": "Fee",
                 "color": "#e898e8"
             }
         ],
@@ -9309,7 +9309,7 @@
                 "color": "#f85888"
             },
             {
-                "type": "Ghost",
+                "type": "Geist",
                 "color": "#705898"
             }
         ],
@@ -9320,11 +9320,11 @@
         "rarity": "",
         "types": [
             {
-                "type": "Fire",
+                "type": "Feuer",
                 "color": "#f08030"
             },
             {
-                "type": "Water",
+                "type": "Wasser",
                 "color": "#6890f0"
             }
         ],
