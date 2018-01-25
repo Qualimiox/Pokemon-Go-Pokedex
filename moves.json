@@ -233,7 +233,7 @@
     },
     "30": {
         "name": "Psystrahl",
-        "type": "Psychokinese",
+        "type": "Psycho",
         "damage": 70,
         "duration": 3200,
         "energy": 50,
@@ -265,7 +265,7 @@
     },
     "34": {
         "name": "Herzstempel",
-        "type": "Psychokinese",
+        "type": "Psycho",
         "damage": 40,
         "duration": 1900,
         "energy": 33,
@@ -473,7 +473,7 @@
     },
     "60": {
         "name": "Psychoschock",
-        "type": "Psychokinese",
+        "type": "Psycho",
         "damage": 65,
         "duration": 2700,
         "energy": 33,
@@ -857,7 +857,7 @@
     },
     "108": {
         "name": "Psychokinese",
-        "type": "Psychokinese",
+        "type": "Psycho",
         "damage": 100,
         "duration": 2800,
         "energy": 100,
@@ -865,7 +865,7 @@
     },
     "109": {
         "name": "Psychostoß",
-        "type": "Psychokinese",
+        "type": "Psycho",
         "damage": 100,
         "duration": 4400,
         "energy": 50,
@@ -1305,7 +1305,7 @@
     },
     "226": {
         "name": "Psychoklinge",
-        "type": "Psychokinese",
+        "type": "Psycho",
         "damage": 5,
         "duration": 600,
         "energy": 8,
@@ -1369,7 +1369,7 @@
     },
     "234": {
         "name": "Zen-Kopfstoß",
-        "type": "Psychokinese",
+        "type": "Psycho",
         "damage": 12,
         "duration": 1100,
         "energy": 10,
@@ -1377,7 +1377,7 @@
     },
     "235": {
         "name": "Konfusion",
-        "type": "Psychokinese",
+        "type": "Psycho",
         "damage": 20,
         "duration": 1600,
         "energy": 15,
@@ -1689,7 +1689,7 @@
     },
     "274": {
         "name": "Sondersensor",
-        "type": "Psychokinese",
+        "type": "Psycho",
         "damage": 12,
         "duration": 1100,
         "energy": 12,
@@ -1697,7 +1697,7 @@
     },
     "275": {
         "name": "Seher",
-        "type": "Psychokinese",
+        "type": "Psycho",
         "damage": 120,
         "duration": 2700,
         "energy": 100,
@@ -1705,7 +1705,7 @@
     },
     "276": {
         "name": "Spiegelcape",
-        "type": "Psychokinese",
+        "type": "Psycho",
         "damage": 60,
         "duration": 2600,
         "energy": 50,
