@@ -121,7 +121,7 @@
     },
     "16": {
         "name": "Finsteraura",
-        "type": "Dark",
+        "type": "Unlicht",
         "damage": 80,
         "duration": 3000,
         "energy": 50,
@@ -137,7 +137,7 @@
     },
     "18": {
         "name": "Schlammbad",
-        "type": "Poison",
+        "type": "Gift",
         "damage": 50,
         "duration": 2100,
         "energy": 33,
@@ -161,7 +161,7 @@
     },
     "21": {
         "name": "Flammenrad",
-        "type": "Fire",
+        "type": "Feuer",
         "damage": 60,
         "duration": 2700,
         "energy": 50,
@@ -169,7 +169,7 @@
     },
     "22": {
         "name": "Vielender",
-        "type": "Bug",
+        "type": "Käfer",
         "damage": 90,
         "duration": 2200,
         "energy": 100,
@@ -185,7 +185,7 @@
     },
     "24": {
         "name": "Flammenwurf",
-        "type": "Fire",
+        "type": "Feuer",
         "damage": 70,
         "duration": 2200,
         "energy": 50,
@@ -201,7 +201,7 @@
     },
     "26": {
         "name": "Schaufler",
-        "type": "Ground",
+        "type": "Boden",
         "damage": 100,
         "duration": 4700,
         "energy": 50,
@@ -217,7 +217,7 @@
     },
     "28": {
         "name": "Kreuzhieb",
-        "type": "Fighting",
+        "type": "Kampf",
         "damage": 50,
         "duration": 1500,
         "energy": 50,
@@ -241,7 +241,7 @@
     },
     "31": {
         "name": "Erdbeben",
-        "type": "Ground",
+        "type": "Boden",
         "damage": 120,
         "duration": 3600,
         "energy": 100,
@@ -249,7 +249,7 @@
     },
     "32": {
         "name": "Steinkante",
-        "type": "Rock",
+        "type": "Gestein",
         "damage": 100,
         "duration": 2300,
         "energy": 100,
@@ -257,7 +257,7 @@
     },
     "33": {
         "name": "Eishieb",
-        "type": "Ice",
+        "type": "Eis",
         "damage": 50,
         "duration": 1900,
         "energy": 33,
@@ -273,7 +273,7 @@
     },
     "35": {
         "name": "Ladungsstoß",
-        "type": "Electric",
+        "type": "Elektro",
         "damage": 65,
         "duration": 2500,
         "energy": 33,
@@ -281,7 +281,7 @@
     },
     "36": {
         "name": "Lichtkanone",
-        "type": "Steel",
+        "type": "Stahl",
         "damage": 100,
         "duration": 2700,
         "energy": 100,
@@ -297,7 +297,7 @@
     },
     "38": {
         "name": "Bohrschnabel",
-        "type": "Flying",
+        "type": "Flug",
         "damage": 60,
         "duration": 2300,
         "energy": 33,
@@ -305,7 +305,7 @@
     },
     "39": {
         "name": "Eisstrahl",
-        "type": "Ice",
+        "type": "Eis",
         "damage": 90,
         "duration": 3300,
         "energy": 50,
@@ -313,7 +313,7 @@
     },
     "40": {
         "name": "Blizzard",
-        "type": "Ice",
+        "type": "Eis",
         "damage": 130,
         "duration": 3100,
         "energy": 100,
@@ -329,7 +329,7 @@
     },
     "42": {
         "name": "Hitzewelle",
-        "type": "Fire",
+        "type": "Feuer",
         "damage": 95,
         "duration": 3000,
         "energy": 100,
@@ -353,7 +353,7 @@
     },
     "45": {
         "name": "Aero-Ass",
-        "type": "Flying",
+        "type": "Flug",
         "damage": 55,
         "duration": 2400,
         "energy": 33,
@@ -361,7 +361,7 @@
     },
     "46": {
         "name": "Schlagbohrer",
-        "type": "Ground",
+        "type": "Boden",
         "damage": 80,
         "duration": 2800,
         "energy": 50,
@@ -369,7 +369,7 @@
     },
     "47": {
         "name": "Blütenwirbel",
-        "type": "Grass",
+        "type": "Pflanze",
         "damage": 110,
         "duration": 2600,
         "energy": 100,
@@ -377,7 +377,7 @@
     },
     "48": {
         "name": "Megasauger",
-        "type": "Grass",
+        "type": "Pflanze",
         "damage": 25,
         "duration": 2600,
         "energy": 50,
@@ -385,7 +385,7 @@
     },
     "49": {
         "name": "Käfergebrumm",
-        "type": "Bug",
+        "type": "Käfer",
         "damage": 90,
         "duration": 3700,
         "energy": 50,
@@ -393,7 +393,7 @@
     },
     "50": {
         "name": "Giftzahn",
-        "type": "Poison",
+        "type": "Gift",
         "damage": 35,
         "duration": 1700,
         "energy": 33,
@@ -401,7 +401,7 @@
     },
     "51": {
         "name": "Nachthieb",
-        "type": "Dark",
+        "type": "Unlicht",
         "damage": 50,
         "duration": 2200,
         "energy": 33,
@@ -417,7 +417,7 @@
     },
     "53": {
         "name": "Blubbstrahl",
-        "type": "Water",
+        "type": "Wasser",
         "damage": 45,
         "duration": 1900,
         "energy": 33,
@@ -425,7 +425,7 @@
     },
     "54": {
         "name": "Überroller",
-        "type": "Fighting",
+        "type": "Kampf",
         "damage": 60,
         "duration": 2200,
         "energy": 50,
@@ -441,7 +441,7 @@
     },
     "56": {
         "name": "Fußtritt",
-        "type": "Fighting",
+        "type": "Kampf",
         "damage": 40,
         "duration": 1900,
         "energy": 33,
@@ -449,7 +449,7 @@
     },
     "57": {
         "name": "Wasserdüse",
-        "type": "Water",
+        "type": "Wasser",
         "damage": 45,
         "duration": 2600,
         "energy": 33,
@@ -457,7 +457,7 @@
     },
     "58": {
         "name": "Nassschweif",
-        "type": "Water",
+        "type": "Wasser",
         "damage": 50,
         "duration": 1900,
         "energy": 33,
@@ -465,7 +465,7 @@
     },
     "59": {
         "name": "Samenbomben",
-        "type": "Grass",
+        "type": "Pflanze",
         "damage": 55,
         "duration": 2100,
         "energy": 33,
@@ -489,7 +489,7 @@
     },
     "62": {
         "name": "Antik-Kraft",
-        "type": "Rock",
+        "type": "Gestein",
         "damage": 70,
         "duration": 3500,
         "energy": 33,
@@ -497,7 +497,7 @@
     },
     "63": {
         "name": "Felsgrab",
-        "type": "Rock",
+        "type": "Gestein",
         "damage": 70,
         "duration": 3200,
         "energy": 50,
@@ -505,7 +505,7 @@
     },
     "64": {
         "name": "Steinhagel",
-        "type": "Rock",
+        "type": "Gestein",
         "damage": 80,
         "duration": 2700,
         "energy": 50,
@@ -513,7 +513,7 @@
     },
     "65": {
         "name": "Juwelenkraft",
-        "type": "Rock",
+        "type": "Gestein",
         "damage": 80,
         "duration": 2900,
         "energy": 50,
@@ -521,7 +521,7 @@
     },
     "66": {
         "name": "Schattenstoß",
-        "type": "Ghost",
+        "type": "Geist",
         "damage": 50,
         "duration": 2900,
         "energy": 33,
@@ -529,7 +529,7 @@
     },
     "67": {
         "name": "Finsterfaust",
-        "type": "Ghost",
+        "type": "Geist",
         "damage": 40,
         "duration": 1700,
         "energy": 33,
@@ -545,7 +545,7 @@
     },
     "69": {
         "name": "Unheilböen",
-        "type": "Ghost",
+        "type": "Geist",
         "damage": 50,
         "duration": 2300,
         "energy": 33,
@@ -553,7 +553,7 @@
     },
     "70": {
         "name": "Spukball",
-        "type": "Ghost",
+        "type": "Geist",
         "damage": 100,
         "duration": 3000,
         "energy": 50,
@@ -569,7 +569,7 @@
     },
     "72": {
         "name": "Magnetbombe",
-        "type": "Steel",
+        "type": "Stahl",
         "damage": 70,
         "duration": 2800,
         "energy": 33,
@@ -585,7 +585,7 @@
     },
     "74": {
         "name": "Eisenschädel",
-        "type": "Steel",
+        "type": "Stahl",
         "damage": 60,
         "duration": 1900,
         "energy": 50,
@@ -593,7 +593,7 @@
     },
     "75": {
         "name": "Parabolladung",
-        "type": "Electric",
+        "type": "Elektro",
         "damage": 25,
         "duration": 2800,
         "energy": 50,
@@ -609,7 +609,7 @@
     },
     "77": {
         "name": "Donnerschlag",
-        "type": "Electric",
+        "type": "Elektro",
         "damage": 45,
         "duration": 1800,
         "energy": 33,
@@ -617,7 +617,7 @@
     },
     "78": {
         "name": "Donner",
-        "type": "Electric",
+        "type": "Elektro",
         "damage": 100,
         "duration": 2400,
         "energy": 100,
@@ -625,7 +625,7 @@
     },
     "79": {
         "name": "Donnerblitz",
-        "type": "Electric",
+        "type": "Elektro",
         "damage": 80,
         "duration": 2500,
         "energy": 50,
@@ -633,7 +633,7 @@
     },
     "80": {
         "name": "Windhose",
-        "type": "Dragon",
+        "type": "Drache",
         "damage": 45,
         "duration": 2800,
         "energy": 33,
@@ -649,7 +649,7 @@
     },
     "82": {
         "name": "Drachenpuls",
-        "type": "Dragon",
+        "type": "Drache",
         "damage": 90,
         "duration": 3600,
         "energy": 50,
@@ -657,7 +657,7 @@
     },
     "83": {
         "name": "Drachenklaue",
-        "type": "Dragon",
+        "type": "Drache",
         "damage": 50,
         "duration": 1700,
         "energy": 33,
@@ -665,7 +665,7 @@
     },
     "84": {
         "name": "Säuselstimme",
-        "type": "Fairy",
+        "type": "Fee",
         "damage": 70,
         "duration": 3900,
         "energy": 33,
@@ -673,7 +673,7 @@
     },
     "85": {
         "name": "Diebeskuss",
-        "type": "Fairy",
+        "type": "Fee",
         "damage": 60,
         "duration": 2600,
         "energy": 50,
@@ -681,7 +681,7 @@
     },
     "86": {
         "name": "Zauberschein",
-        "type": "Fairy",
+        "type": "Fee",
         "damage": 100,
         "duration": 3500,
         "energy": 50,
@@ -689,7 +689,7 @@
     },
     "87": {
         "name": "Mondgewalt",
-        "type": "Fairy",
+        "type": "Fee",
         "damage": 130,
         "duration": 3900,
         "energy": 100,
@@ -697,7 +697,7 @@
     },
     "88": {
         "name": "Knuddler",
-        "type": "Fairy",
+        "type": "Fee",
         "damage": 90,
         "duration": 2900,
         "energy": 50,
@@ -705,7 +705,7 @@
     },
     "89": {
         "name": "Giftstreich",
-        "type": "Poison",
+        "type": "Gift",
         "damage": 40,
         "duration": 1500,
         "energy": 33,
@@ -713,7 +713,7 @@
     },
     "90": {
         "name": "Matschbombe",
-        "type": "Poison",
+        "type": "Gift",
         "damage": 80,
         "duration": 2300,
         "energy": 50,
@@ -721,7 +721,7 @@
     },
     "91": {
         "name": "Schlammwoge",
-        "type": "Poison",
+        "type": "Gift",
         "damage": 110,
         "duration": 3200,
         "energy": 100,
@@ -729,7 +729,7 @@
     },
     "92": {
         "name": "Mülltreffer",
-        "type": "Poison",
+        "type": "Gift",
         "damage": 130,
         "duration": 3100,
         "energy": 100,
@@ -745,7 +745,7 @@
     },
     "94": {
         "name": "Knochenkeule",
-        "type": "Ground",
+        "type": "Boden",
         "damage": 40,
         "duration": 1600,
         "energy": 33,
@@ -753,7 +753,7 @@
     },
     "95": {
         "name": "Dampfwalze",
-        "type": "Ground",
+        "type": "Boden",
         "damage": 80,
         "duration": 3500,
         "energy": 50,
@@ -761,7 +761,7 @@
     },
     "96": {
         "name": "Schlammbombe",
-        "type": "Ground",
+        "type": "Boden",
         "damage": 55,
         "duration": 2300,
         "energy": 33,
@@ -785,7 +785,7 @@
     },
     "99": {
         "name": "Ampelleuchte",
-        "type": "Bug",
+        "type": "Käfer",
         "damage": 75,
         "duration": 2900,
         "energy": 50,
@@ -793,7 +793,7 @@
     },
     "100": {
         "name": "Kreuzschere",
-        "type": "Bug",
+        "type": "Käfer",
         "damage": 45,
         "duration": 1600,
         "energy": 33,
@@ -801,7 +801,7 @@
     },
     "101": {
         "name": "Nitroladung",
-        "type": "Fire",
+        "type": "Feuer",
         "damage": 70,
         "duration": 3800,
         "energy": 33,
@@ -809,7 +809,7 @@
     },
     "102": {
         "name": "Funkenflug",
-        "type": "Fire",
+        "type": "Feuer",
         "damage": 70,
         "duration": 2600,
         "energy": 50,
@@ -817,7 +817,7 @@
     },
     "103": {
         "name": "Feuersturm",
-        "type": "Fire",
+        "type": "Feuer",
         "damage": 140,
         "duration": 4200,
         "energy": 100,
@@ -825,7 +825,7 @@
     },
     "104": {
         "name": "Lake",
-        "type": "Water",
+        "type": "Wasser",
         "damage": 60,
         "duration": 2300,
         "energy": 50,
@@ -833,7 +833,7 @@
     },
     "105": {
         "name": "Aquawelle",
-        "type": "Water",
+        "type": "Wasser",
         "damage": 70,
         "duration": 3200,
         "energy": 50,
@@ -841,7 +841,7 @@
     },
     "106": {
         "name": "Siedewasser",
-        "type": "Water",
+        "type": "Wasser",
         "damage": 82,
         "duration": 3700,
         "energy": 50,
@@ -849,7 +849,7 @@
     },
     "107": {
         "name": "Hydropumpe",
-        "type": "Water",
+        "type": "Wasser",
         "damage": 130,
         "duration": 3300,
         "energy": 100,
@@ -881,7 +881,7 @@
     },
     "111": {
         "name": "Eissturm",
-        "type": "Ice",
+        "type": "Eis",
         "damage": 60,
         "duration": 3300,
         "energy": 33,
@@ -905,7 +905,7 @@
     },
     "114": {
         "name": "Gigasauger",
-        "type": "Grass",
+        "type": "Pflanze",
         "damage": 50,
         "duration": 3900,
         "energy": 100,
@@ -913,7 +913,7 @@
     },
     "115": {
         "name": "Feuerschlag",
-        "type": "Fire",
+        "type": "Feuer",
         "damage": 55,
         "duration": 2200,
         "energy": 33,
@@ -921,7 +921,7 @@
     },
     "116": {
         "name": "Solarstrahl",
-        "type": "Grass",
+        "type": "Pflanze",
         "damage": 180,
         "duration": 4900,
         "energy": 100,
@@ -929,7 +929,7 @@
     },
     "117": {
         "name": "Laubklinge",
-        "type": "Grass",
+        "type": "Pflanze",
         "damage": 70,
         "duration": 2400,
         "energy": 33,
@@ -937,7 +937,7 @@
     },
     "118": {
         "name": "Blattgeißel",
-        "type": "Grass",
+        "type": "Pflanze",
         "damage": 90,
         "duration": 2600,
         "energy": 50,
@@ -961,7 +961,7 @@
     },
     "121": {
         "name": "Windschnitt",
-        "type": "Flying",
+        "type": "Flug",
         "damage": 60,
         "duration": 2700,
         "energy": 50,
@@ -969,7 +969,7 @@
     },
     "122": {
         "name": "Orkan",
-        "type": "Flying",
+        "type": "Flug",
         "damage": 110,
         "duration": 2700,
         "energy": 100,
@@ -977,7 +977,7 @@
     },
     "123": {
         "name": "Durchbruch",
-        "type": "Fighting",
+        "type": "Kampf",
         "damage": 40,
         "duration": 1600,
         "energy": 33,
@@ -1065,7 +1065,7 @@
     },
     "134": {
         "name": "Scald (Blastoise)",
-        "type": "Water",
+        "type": "Wasser",
         "damage": 0,
         "duration": 0,
         "energy": 0,
@@ -1073,7 +1073,7 @@
     },
     "135": {
         "name": "Hydro Pump (Blastoise)",
-        "type": "Water",
+        "type": "Wasser",
         "damage": 0,
         "duration": 0,
         "energy": 0,
@@ -1097,7 +1097,7 @@
     },
     "200": {
         "name": "Zornklinge",
-        "type": "Bug",
+        "type": "Käfer",
         "damage": 3,
         "duration": 400,
         "energy": 6,
@@ -1105,7 +1105,7 @@
     },
     "201": {
         "name": "Käferbiss",
-        "type": "Bug",
+        "type": "Käfer",
         "damage": 5,
         "duration": 500,
         "energy": 6,
@@ -1113,7 +1113,7 @@
     },
     "202": {
         "name": "Biss",
-        "type": "Dark",
+        "type": "Unlicht",
         "damage": 6,
         "duration": 500,
         "energy": 4,
@@ -1121,7 +1121,7 @@
     },
     "203": {
         "name": "Tiefschlag",
-        "type": "Dark",
+        "type": "Unlicht",
         "damage": 7,
         "duration": 700,
         "energy": 8,
@@ -1129,7 +1129,7 @@
     },
     "204": {
         "name": "Feuerodem",
-        "type": "Dragon",
+        "type": "Drache",
         "damage": 6,
         "duration": 500,
         "energy": 4,
@@ -1137,7 +1137,7 @@
     },
     "205": {
         "name": "Donnerschock",
-        "type": "Electric",
+        "type": "Elektro",
         "damage": 5,
         "duration": 600,
         "energy": 8,
@@ -1145,7 +1145,7 @@
     },
     "206": {
         "name": "Funkensprung",
-        "type": "Electric",
+        "type": "Elektro",
         "damage": 6,
         "duration": 700,
         "energy": 9,
@@ -1153,7 +1153,7 @@
     },
     "207": {
         "name": "Fußkick",
-        "type": "Fighting",
+        "type": "Kampf",
         "damage": 6,
         "duration": 600,
         "energy": 6,
@@ -1161,7 +1161,7 @@
     },
     "208": {
         "name": "Karateschlag",
-        "type": "Fighting",
+        "type": "Kampf",
         "damage": 8,
         "duration": 800,
         "energy": 10,
@@ -1169,7 +1169,7 @@
     },
     "209": {
         "name": "Glut",
-        "type": "Fire",
+        "type": "Feuer",
         "damage": 10,
         "duration": 1000,
         "energy": 10,
@@ -1177,7 +1177,7 @@
     },
     "210": {
         "name": "Flügelschlag",
-        "type": "Flying",
+        "type": "Flug",
         "damage": 8,
         "duration": 800,
         "energy": 9,
@@ -1185,7 +1185,7 @@
     },
     "211": {
         "name": "Schnabel",
-        "type": "Flying",
+        "type": "Flug",
         "damage": 10,
         "duration": 1000,
         "energy": 10,
@@ -1193,7 +1193,7 @@
     },
     "212": {
         "name": "Schlecker",
-        "type": "Ghost",
+        "type": "Geist",
         "damage": 5,
         "duration": 500,
         "energy": 6,
@@ -1201,7 +1201,7 @@
     },
     "213": {
         "name": "Dunkelklaue",
-        "type": "Ghost",
+        "type": "Geist",
         "damage": 9,
         "duration": 700,
         "energy": 6,
@@ -1209,7 +1209,7 @@
     },
     "214": {
         "name": "Rankenhieb",
-        "type": "Grass",
+        "type": "Pflanze",
         "damage": 7,
         "duration": 600,
         "energy": 6,
@@ -1217,7 +1217,7 @@
     },
     "215": {
         "name": "Rasierblatt",
-        "type": "Grass",
+        "type": "Pflanze",
         "damage": 13,
         "duration": 1000,
         "energy": 7,
@@ -1225,7 +1225,7 @@
     },
     "216": {
         "name": "Lehmschuss",
-        "type": "Ground",
+        "type": "Boden",
         "damage": 5,
         "duration": 600,
         "energy": 7,
@@ -1233,7 +1233,7 @@
     },
     "217": {
         "name": "Eissplitter",
-        "type": "Ice",
+        "type": "Eis",
         "damage": 12,
         "duration": 1200,
         "energy": 12,
@@ -1241,7 +1241,7 @@
     },
     "218": {
         "name": "Eisesodem",
-        "type": "Ice",
+        "type": "Eis",
         "damage": 10,
         "duration": 900,
         "energy": 8,
@@ -1289,7 +1289,7 @@
     },
     "224": {
         "name": "Gifthieb",
-        "type": "Poison",
+        "type": "Gift",
         "damage": 10,
         "duration": 800,
         "energy": 7,
@@ -1297,7 +1297,7 @@
     },
     "225": {
         "name": "Säure",
-        "type": "Poison",
+        "type": "Gift",
         "damage": 9,
         "duration": 800,
         "energy": 8,
@@ -1313,7 +1313,7 @@
     },
     "227": {
         "name": "Steinwurf",
-        "type": "Rock",
+        "type": "Gestein",
         "damage": 12,
         "duration": 900,
         "energy": 7,
@@ -1321,7 +1321,7 @@
     },
     "228": {
         "name": "Metallklaue",
-        "type": "Steel",
+        "type": "Stahl",
         "damage": 8,
         "duration": 700,
         "energy": 7,
@@ -1329,7 +1329,7 @@
     },
     "229": {
         "name": "Patronenhieb",
-        "type": "Steel",
+        "type": "Stahl",
         "damage": 9,
         "duration": 900,
         "energy": 10,
@@ -1337,7 +1337,7 @@
     },
     "230": {
         "name": "Aquaknarre",
-        "type": "Water",
+        "type": "Wasser",
         "damage": 5,
         "duration": 500,
         "energy": 5,
@@ -1345,14 +1345,14 @@
     },
     "231": {
         "name": "Platscher",
-        "type": "Water",
+        "type": "Wasser",
         "damage": 0,
         "duration": 1730,
         "energy": 20,
         "dps": 0
     },
     "232": {
-        "name": "Water Gun (Blastoise)",
+        "name": "Wasser Gun (Blastoise)",
         "type": "",
         "damage": 0,
         "duration": 0,
@@ -1361,7 +1361,7 @@
     },
     "233": {
         "name": "Mud Slap",
-        "type": "Ground",
+        "type": "Boden",
         "damage": 15,
         "duration": 1400,
         "energy": 12,
@@ -1385,7 +1385,7 @@
     },
     "236": {
         "name": "Giftstachel",
-        "type": "Poison",
+        "type": "Gift",
         "damage": 5,
         "duration": 600,
         "energy": 7,
@@ -1393,7 +1393,7 @@
     },
     "237": {
         "name": "Blubber",
-        "type": "Water",
+        "type": "Wasser",
         "damage": 12,
         "duration": 1200,
         "energy": 14,
@@ -1401,7 +1401,7 @@
     },
     "238": {
         "name": "Finte",
-        "type": "Dark",
+        "type": "Unlicht",
         "damage": 10,
         "duration": 900,
         "energy": 9,
@@ -1409,7 +1409,7 @@
     },
     "239": {
         "name": "Stahlflügel",
-        "type": "Steel",
+        "type": "Stahl",
         "damage": 11,
         "duration": 800,
         "energy": 6,
@@ -1417,7 +1417,7 @@
     },
     "240": {
         "name": "Feuerzahn",
-        "type": "Fire",
+        "type": "Feuer",
         "damage": 11,
         "duration": 900,
         "energy": 8,
@@ -1425,7 +1425,7 @@
     },
     "241": {
         "name": "Zertrümmerer",
-        "type": "Fighting",
+        "type": "Kampf",
         "damage": 15,
         "duration": 1300,
         "energy": 10,
@@ -1441,7 +1441,7 @@
     },
     "243": {
         "name": "Konter",
-        "type": "Fighting",
+        "type": "Kampf",
         "damage": 8,
         "duration": 900,
         "energy": 12,
@@ -1449,7 +1449,7 @@
     },
     "244": {
         "name": "Pulverschnee",
-        "type": "Ice",
+        "type": "Eis",
         "damage": 6,
         "duration": 1000,
         "energy": 15,
@@ -1457,7 +1457,7 @@
     },
     "245": {
         "name": "Nahkampf",
-        "type": "Fighting",
+        "type": "Kampf",
         "damage": 100,
         "duration": 2300,
         "energy": 100,
@@ -1465,7 +1465,7 @@
     },
     "246": {
         "name": "Wuchtschlag",
-        "type": "Fighting",
+        "type": "Kampf",
         "damage": 90,
         "duration": 2700,
         "energy": 50,
@@ -1473,7 +1473,7 @@
     },
     "247": {
         "name": "Fokusstoß",
-        "type": "Fighting",
+        "type": "Kampf",
         "damage": 140,
         "duration": 3500,
         "energy": 140,
@@ -1481,7 +1481,7 @@
     },
     "248": {
         "name": "Aurorastrahl",
-        "type": "Ice",
+        "type": "Eis",
         "damage": 80,
         "duration": 3550,
         "energy": 50,
@@ -1489,7 +1489,7 @@
     },
     "249": {
         "name": "Ladestrahl",
-        "type": "Electric",
+        "type": "Elektro",
         "damage": 8,
         "duration": 1100,
         "energy": 15,
@@ -1497,7 +1497,7 @@
     },
     "250": {
         "name": "Voltwechsel",
-        "type": "Electric",
+        "type": "Elektro",
         "damage": 20,
         "duration": 2300,
         "energy": 25,
@@ -1505,7 +1505,7 @@
     },
     "251": {
         "name": "Stromstoß",
-        "type": "Electric",
+        "type": "Elektro",
         "damage": 90,
         "duration": 2600,
         "energy": 50,
@@ -1513,7 +1513,7 @@
     },
     "252": {
         "name": "Blitzkanone",
-        "type": "Electric",
+        "type": "Elektro",
         "damage": 140,
         "duration": 3700,
         "energy": 100,
@@ -1521,7 +1521,7 @@
     },
     "253": {
         "name": "Drachenrute",
-        "type": "Dragon",
+        "type": "Drache",
         "damage": 15,
         "duration": 1100,
         "energy": 9,
@@ -1529,7 +1529,7 @@
     },
     "254": {
         "name": "Lawine",
-        "type": "Ice",
+        "type": "Eis",
         "damage": 90,
         "duration": 2700,
         "energy": 50,
@@ -1537,7 +1537,7 @@
     },
     "255": {
         "name": "Luftschnitt",
-        "type": "Flying",
+        "type": "Flug",
         "damage": 14,
         "duration": 1200,
         "energy": 10,
@@ -1545,7 +1545,7 @@
     },
     "256": {
         "name": "Sturzflug",
-        "type": "Flying",
+        "type": "Flug",
         "damage": 90,
         "duration": 2000,
         "energy": 100,
@@ -1553,7 +1553,7 @@
     },
     "257": {
         "name": "Himmelsfeger",
-        "type": "Flying",
+        "type": "Flug",
         "damage": 70,
         "duration": 2000,
         "energy": 50,
@@ -1561,7 +1561,7 @@
     },
     "258": {
         "name": "Sandgrab",
-        "type": "Ground",
+        "type": "Boden",
         "damage": 80,
         "duration": 4000,
         "energy": 50,
@@ -1569,7 +1569,7 @@
     },
     "259": {
         "name": "Felswurf",
-        "type": "Rock",
+        "type": "Gestein",
         "damage": 50,
         "duration": 2100,
         "energy": 33,
@@ -1577,7 +1577,7 @@
     },
     "260": {
         "name": "Plage",
-        "type": "Bug",
+        "type": "Käfer",
         "damage": 10,
         "duration": 1100,
         "energy": 14,
@@ -1585,7 +1585,7 @@
     },
     "261": {
         "name": "Käfertrutz",
-        "type": "Bug",
+        "type": "Käfer",
         "damage": 15,
         "duration": 1500,
         "energy": 15,
@@ -1593,7 +1593,7 @@
     },
     "262": {
         "name": "Silberhauch",
-        "type": "Bug",
+        "type": "Käfer",
         "damage": 70,
         "duration": 3700,
         "energy": 33,
@@ -1601,7 +1601,7 @@
     },
     "263": {
         "name": "Erstauner",
-        "type": "Ghost",
+        "type": "Geist",
         "damage": 8,
         "duration": 1100,
         "energy": 14,
@@ -1609,7 +1609,7 @@
     },
     "264": {
         "name": "Bürde",
-        "type": "Ghost",
+        "type": "Geist",
         "damage": 10,
         "duration": 1200,
         "energy": 15,
@@ -1617,7 +1617,7 @@
     },
     "265": {
         "name": "Nachtnebel",
-        "type": "Ghost",
+        "type": "Geist",
         "damage": 60,
         "duration": 2600,
         "energy": 50,
@@ -1625,7 +1625,7 @@
     },
     "266": {
         "name": "Eisenschweif",
-        "type": "Steel",
+        "type": "Stahl",
         "damage": 15,
         "duration": 1100,
         "energy": 7,
@@ -1633,7 +1633,7 @@
     },
     "267": {
         "name": "Gyroball",
-        "type": "Steel",
+        "type": "Stahl",
         "damage": 80,
         "duration": 3300,
         "energy": 50,
@@ -1641,7 +1641,7 @@
     },
     "268": {
         "name": "Rammboss",
-        "type": "Steel",
+        "type": "Stahl",
         "damage": 70,
         "duration": 2100,
         "energy": 50,
@@ -1649,7 +1649,7 @@
     },
     "269": {
         "name": "Feuerwirbel",
-        "type": "Fire",
+        "type": "Feuer",
         "damage": 14,
         "duration": 1100,
         "energy": 10,
@@ -1657,7 +1657,7 @@
     },
     "270": {
         "name": "Hitzekoller",
-        "type": "Fire",
+        "type": "Feuer",
         "damage": 160,
         "duration": 4000,
         "energy": 100,
@@ -1665,7 +1665,7 @@
     },
     "271": {
         "name": "Kugelsaat",
-        "type": "Grass",
+        "type": "Pflanze",
         "damage": 8,
         "duration": 1100,
         "energy": 14,
@@ -1673,7 +1673,7 @@
     },
     "272": {
         "name": "Strauchler",
-        "type": "Grass",
+        "type": "Pflanze",
         "damage": 90,
         "duration": 2600,
         "energy": 50,
@@ -1681,7 +1681,7 @@
     },
     "273": {
         "name": "Energieball",
-        "type": "Grass",
+        "type": "Pflanze",
         "damage": 90,
         "duration": 3900,
         "energy": 50,
@@ -1713,7 +1713,7 @@
     },
     "277": {
         "name": "Wutanfall",
-        "type": "Dragon",
+        "type": "Drache",
         "damage": 110,
         "duration": 3900,
         "energy": 50,
@@ -1721,7 +1721,7 @@
     },
     "278": {
         "name": "Standpauke",
-        "type": "Dark",
+        "type": "Unlicht",
         "damage": 12,
         "duration": 1100,
         "energy": 12,
@@ -1729,7 +1729,7 @@
     },
     "279": {
         "name": "Knirscher",
-        "type": "Dark",
+        "type": "Unlicht",
         "damage": 70,
         "duration": 3200,
         "energy": 33,
@@ -1737,7 +1737,7 @@
     },
     "280": {
         "name": "Schmarotzer",
-        "type": "Dark",
+        "type": "Unlicht",
         "damage": 70,
         "duration": 2000,
         "energy": 50,
